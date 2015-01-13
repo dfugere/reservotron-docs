@@ -13,4 +13,5 @@
        * [Disponibilités](disponibilites.md)
        * [Tableau de bord](tableau_de_bord.md)
    * Activation de la réservation en ligne
+       * Configuration de la passerelle de paiement
 
