@@ -32,7 +32,7 @@ Ajoutez des commentaires ou indications dans la case “Note” si nécessaire
 1. 
 Cliquez sur “Créer Paiement”
 
-![](https://www.monosnap.com/file/rQ9gLwrWrwYQFWk6vEAozs1O5jl1OD)
+![Monosnap](https://www.monosnap.com/file/rQ9gLwrWrwYQFWk6vEAozs1O5jl1OD)
 
 Vous pouvez également gérer vos certificats cadeaux en temps réel afin d’effectuer des suivis d’utilisation des certificats cadeaux vendus en ligne. 
 1. 
