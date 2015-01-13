@@ -8,4 +8,5 @@
        * [Saisons](saisons.md)
        * [Heures d'ouverture](heures_douverture.md)
    * Gestion des réservations
+       * Création et modifications à l'interne
 
