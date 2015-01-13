@@ -1,6 +1,6 @@
 # Billets exclusifs
 
-La création de billets exclusifs vous permettra de limiter la vente d’un forfait à un nombre trop élevé de participant par le même client. Ils sont utiles dans la mesure où vous voudriez éventuellement restreindre (ex: pour la vente de passes saisonnières, vente d’un accès à entrée multiple, etc.)
+La création de billets exclusifs vous permettra de limiter la vente d’un forfait à un nombre trop élevé de participants par le même client. Ils sont utiles dans la mesure où vous voudriez éventuellement restreindre  (ex: pour la vente de passes saisonnières, vente d’un accès à entrée multiple, etc.)
 
 ***Pour créer des billets exclusifs:***
 1. Allez dans le menu “Inventaire”
