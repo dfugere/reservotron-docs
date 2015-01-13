@@ -12,4 +12,5 @@
        * [Utilisateurs](utilisateurs.md)
        * [Disponibilités](disponibilites.md)
        * [Tableau de bord](tableau_de_bord.md)
+   * Activation de la réservation en ligne
 
