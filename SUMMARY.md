@@ -16,5 +16,5 @@
        * [Configuration de la passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
        * [Ajouter Réservotron sur votre site](ajouter_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
-   * Détailler vos participants
+   * [Détailler vos participants](detailler_vos_participants.md)
 
