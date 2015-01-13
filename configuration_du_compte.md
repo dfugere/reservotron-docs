@@ -1,2 +1,2 @@
-# Configuration administratif du compte
+# Configuration du compte
 
