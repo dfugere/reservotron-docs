@@ -9,5 +9,5 @@
        * [Heures d'ouverture](heures_douverture.md)
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
-       * Utilisateurs
+       * [Utilisateurs](utilisateurs.md)
 
