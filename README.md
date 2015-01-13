@@ -27,3 +27,5 @@ Ajoutez la configuration visuelle de votre compte en ajoutant votre logo et une 
 1. 
 Ajoutez les liens de vos comptes sur les différents réseaux sociaux afin d’optimiser vos communications et d’augmenter votre présence et vos audiences sur les communautés en ligne (facultatif)
 
+
+
