@@ -18,4 +18,5 @@
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
    * [Billets exclusifs](billets_exclusifs.md)
+   * Suggestions
 
