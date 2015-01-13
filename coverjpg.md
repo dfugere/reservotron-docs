@@ -1,1 +1,0 @@
-![](https://api.monosnap.com/image/download?id=GbOa3uRXBtAgM8gn7VYEEmEhcTaS8S)
