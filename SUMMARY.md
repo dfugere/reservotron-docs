@@ -12,6 +12,6 @@
        * [Utilisateurs](utilisateurs.md)
        * [Disponibilités](disponibilites.md)
        * [Tableau de bord](tableau_de_bord.md)
-   * Activation de la réservation en ligne
+   * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * Configuration de la passerelle de paiement
 
