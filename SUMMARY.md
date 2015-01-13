@@ -11,4 +11,5 @@
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
        * [Utilisateurs](utilisateurs.md)
        * [Disponibilités](disponibilites.md)
+       * Tableau de bord
 
