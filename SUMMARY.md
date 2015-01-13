@@ -6,4 +6,5 @@
    * [Gestion de l'inventaire](inventaire.md)
        * [Inventaire](inventaire.md)
        * [Saisons](saisons.md)
+       * Heures d'ouverture
 
