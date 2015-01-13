@@ -17,4 +17,5 @@
        * [Ajouter Réservotron sur votre site](ajouter_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
+   * Billets exclusifs
 
