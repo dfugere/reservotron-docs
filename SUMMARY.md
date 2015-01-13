@@ -14,4 +14,5 @@
        * [Tableau de bord](tableau_de_bord.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Configuration de la passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
+       * Ajoutez Réservotron sur votre site
 
