@@ -7,4 +7,5 @@
        * [Inventaire](inventaire.md)
        * [Saisons](saisons.md)
        * [Heures d'ouverture](heures_douverture.md)
+   * Gestion des réservations
 
