@@ -15,6 +15,7 @@ Sélectionnez “Activité”
 Cliquez sur “Ajouter activité”
 1. 
 Ajoutez les informations désirées
+1. Cochez la case "Publiée"
 1. 
 Sauvegardez en cliquant sur “Créer Activité”
 
@@ -28,7 +29,8 @@ Cliquez sur “Ajouter hébergement”
 1. 
 Ajoutez les informations désirées
 1. 
-Sauvegardez en cliquant sur “Créer hébergement”
+Cochez la case "publiée"
+1. Sauvegardez en cliquant sur “Créer hébergement”
 
 ***Pour ajouter des équipements ou services à votre inventaire:* **
 1. 
@@ -39,6 +41,7 @@ Sélectionnez  “Divers”
 Cliquez sur “Ajouter divers”
 1. 
 Ajoutez les informations désirées 
+1. Cochez la case "Publiée"
 1. 
 Sauvegardez en cliquant sur “Créer divers”
 
