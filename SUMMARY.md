@@ -9,7 +9,6 @@
        * [Heures d'ouverture](heures_douverture.md)
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
-       * [Utilisateurs](utilisateurs.md)
        * [Disponibilités](disponibilites.md)
        * [Tableau de bord](tableau_de_bord.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
