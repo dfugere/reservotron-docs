@@ -19,6 +19,5 @@
    * [Détailler vos participants](detailler_vos_participants.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
-   * Réinitialiser votre mot de passe
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
 
