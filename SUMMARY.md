@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Configuration du compte](configuration_du_compte.md)
-   * Réinitialiser votre mot de passe
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
@@ -16,6 +15,7 @@
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
+* Réinitialiser votre mot de passe
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
    * [Billets exclusifs](billets_exclusifs.md)
