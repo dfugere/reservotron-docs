@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * Réinitialiser votre mot de passe
 * [Configuration du compte](configuration_du_compte.md)
+   * Réinitialiser votre mot de passe
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
