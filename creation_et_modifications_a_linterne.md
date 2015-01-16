@@ -22,6 +22,7 @@ Vous serez redirigé vers l’état de votre commande. Il vous sera ensuite poss
 
 ![](https://api.monosnap.com/rpc/file/download?id=rQ9gLwrWrwYQFWk6vEAozs1O5jl1OD)
 
+
 Vous pouvez également gérer vos certificats cadeaux en temps réel afin d’effectuer des suivis d’utilisation des certificats cadeaux vendus en ligne. 
 1. Allez dans “Inventaire”
 1. Sélectionnez “Certificats cadeaux” 
