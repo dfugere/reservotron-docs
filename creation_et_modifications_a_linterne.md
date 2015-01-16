@@ -22,6 +22,13 @@ Vous serez redirigé vers l’état de votre commande. Il vous sera ensuite poss
 
 ![](https://api.monosnap.com/rpc/file/download?id=rQ9gLwrWrwYQFWk6vEAozs1O5jl1OD)
 
+***Pour modifier une commande***:
+1. Allez dans le menu: "Commandes"
+2. Cliquez sur la facture de la commande que vous désirez modifier
+3. Cliquez sur le bouton "Modifier la commande"
+4. Modifier les informations désirées
+5. Cliquez sur le bouton "Passez à la caisse"
+6. Cliquez sur le bouton "Confirmez la commande"
 
 Vous pouvez également gérer vos certificats cadeaux en temps réel afin d’effectuer des suivis d’utilisation des certificats cadeaux vendus en ligne. 
 1. Allez dans “Inventaire”
