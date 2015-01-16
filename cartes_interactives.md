@@ -24,11 +24,15 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 
 ![](https://api.monosnap.com/image/download?id=ETRAm54mBhi2BELhcuGPUlMUT4k4fi)
 
-**Vos clients pourront ainsi voir les disponibilités des hébergements directement sur la carte. 
-En cliquant sur un site, le client sera immédiatement dirigé vers la réservation en ligne de l'hébergement désiré. **
+**Vos clients pourront ainsi voir les disponibilités des hébergements directement sur la carte. **
+
+**En cliquant sur un site, le client sera immédiatement dirigé vers la réservation en ligne de l'hébergement désiré. **
 
 
 
 ![](Screen Shot 2015-01-16 at 3.58.58 PM.png)
+
+
+
 
 Si vous avez besoin d'assistance dans la création d'une carte interactive, contactez le [support](mailto:info@reservotron.com) de Réservotron. 
