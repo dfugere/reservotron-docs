@@ -11,7 +11,7 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 4. Cliquez sur le bouton *"Filtrer"*
 5. Cliquez sur le lien *"Modifier"* de l'hébergement affiché
 6. Choisissez une image dans la case *"Carte"*
-7. Sélectionnez *"oui"* dans la case  "Publiée"
+7. Sélectionnez *"oui"* dans la case "Publiée"
 
 ![](https://api.monosnap.com/image/download?id=QXXC1SLV6nJZrLU3ZGysP7lwg1EyYP)
 
