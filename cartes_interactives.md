@@ -26,7 +26,7 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 
 **Vos clients pourront ainsi voir les disponibilités des hébergements directement sur la carte. **
 
-**En cliquant sur un site, le client sera immédiatement dirigé vers la réservation en ligne de l'hébergement désiré. **
+**En cliquant sur un site, le client sera immédiatement redirigé vers la réservation en ligne de l'hébergement désiré. **
 
 
 
