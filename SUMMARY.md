@@ -20,7 +20,7 @@
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
-   * [Cartes interactives](cartes_interactives.md)
    * Coupons
+   * [Cartes interactives](cartes_interactives.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 
