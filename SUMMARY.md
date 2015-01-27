@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Aide
 * [Configuration du compte](configuration_du_compte.md)
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
@@ -23,5 +22,6 @@
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
+* Aide
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 
