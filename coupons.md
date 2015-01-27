@@ -12,7 +12,7 @@ Si votre coupon s'applique spécifiquement à l'un des produits de votre inventa
 1. Cliquez sur ***"Appliquer à un produit"***
 2. Sélectionnez le **type** de produit 
 3. Sélectionnez l'item spécifique auquel vous désirez appliquer un coupon rabais
-4. Validez en cliquant sur ***"Créer coupon"***
+4. Validez en cliquant sur ***"Créer Coupon"***
 
 Si vous décidez de ne rien sélectionner dans la case ***"Appliquer à un produit"***, le coupon sera alors applicable à l'ensemble de votre inventaire. 
 
