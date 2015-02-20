@@ -22,7 +22,7 @@
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
-   * Allotements
+   * [Allotements](allotements.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
 
