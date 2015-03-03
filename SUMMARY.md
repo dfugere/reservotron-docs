@@ -23,7 +23,7 @@
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
    * [Allotements](allotements.md)
-   * Prix par type de participant
+   * [Prix par type de participant](prix_par_type_de_participant.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
 
