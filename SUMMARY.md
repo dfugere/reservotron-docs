@@ -16,7 +16,6 @@
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
-   * [Détailler vos participants](detailler_vos_participants.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
