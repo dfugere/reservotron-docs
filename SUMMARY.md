@@ -9,6 +9,7 @@
        * [Heures d'ouverture](heures_douverture.md)
        * Catégories
        * test
+   * [test](test.md)
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
        * [Disponibilités](disponibilites.md)
@@ -17,7 +18,6 @@
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-   * [test](test.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Prix par type de participant](prix_par_type_de_participant.md)
