@@ -9,7 +9,7 @@ Pour créer des catégories, suivez les étapes suivantes:
 2. Cliquez sur ***Ajouter une catégorie***
 3. Entrez les informations désirées telles que le nom de la catégorie
 4. Sélectionnez une image illustrant votre catégorie
-5. Validez votre catégorie en cliquant sur ***"Créer catégorie"***
+5. Validez votre catégorie en cliquant sur ***"Créer Catégorie"***
 
 En attribuant une image à votre catégorie, vous déterminez ce que vos clients verront lorsqu'ils voudront la sélectionner. Dans l'éventualité où vous ne mettez pas d'image, le logiciel prendra en compte la première image ajouté à un produit de la catégorie en question. 
 
