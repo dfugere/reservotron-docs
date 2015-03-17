@@ -4,3 +4,4 @@
        * [Inventaire](inventaire.md)
        * [Saisons](saisons.md)
        * [Heures d'ouverture](heures_douverture.md)
+       * [Catégories](cat.md)
