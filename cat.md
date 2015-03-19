@@ -18,4 +18,4 @@ En indiquant une position à votre catégorie, vous influencez l'ordre dans lequ
 Si vous voulez qu'une catégorie apparaisse en premier, vous devrez lui attribuer une position de **1**. 
 Numérotez ensuite le reste de vos catégories de sorte à obtenir l'ordre désiré. 
 
-![](https://api.monosnap.com/rpc/file/download?id=CvMxI4jyfZZLA8HImv49knuVNyFtoO)
+![](355feb9a-6faf-4733-a98e-67521216b31e copy.png)
