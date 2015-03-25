@@ -9,7 +9,9 @@ Pour démarrer votre utilisation rapidement, nous vous recommandons Stripe en ta
 
 Reservotron.com support la majorité des passerelles de paiements existantes. Voici la liste des passerelles les plus couramment utilisez:)
 
-* [Stripe *recommendé*](stripe.md)
+* [Stripe *(recommendé initialement)*](stripe.md)
+* [Moneris](moneris.md)
+* [Desjardins](desjardins.md)
 * Paypal
 * Optimal Payments
 * Authorize.net
@@ -19,7 +21,6 @@ Reservotron.com support la majorité des passerelles de paiements existantes. Vo
 * Elavon MyVirtualMerchant
 * First Data GGE4
 * IATS Payments
-* Moneris
 * Psigate
 * Sage Payment Solutions
 * Skip Jack
