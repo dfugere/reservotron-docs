@@ -9,7 +9,7 @@ Pour démarrer votre utilisation rapidement, nous vous recommandons Stripe en ta
 
 Reservotron.com support la majorité des passerelles de paiements existantes. Voici la liste des passerelles les plus couramment utilisez:
 
-* Stripe (choix recommandé initialement)
+* Stripe (choix recommandé initialement)[stripe.md]
 * Paypal
 * Optimal Payments
 * Authorize.net
