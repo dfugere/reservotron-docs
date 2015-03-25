@@ -15,6 +15,7 @@
    * [Gestion des utilisateurs](gestion_des_utilisateurs.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
+           * stripe
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
