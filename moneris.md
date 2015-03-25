@@ -1,4 +1,4 @@
-### Comment configurer Moneris?
+# Comment configurer Moneris?
 
 
 Pour connecter Réservotron à Moneris, il faut demander à votre représentant d'ouvrir un compte E-Select Plus. 
