@@ -17,7 +17,7 @@
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
            * [stripe](stripe.md)
            * [moneris](moneris.md)
-           * desjardins
+           * [desjardins](desjardins.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
