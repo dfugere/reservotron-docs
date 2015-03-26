@@ -19,6 +19,8 @@ Ajoutez les informations désirées
 1. 
 Sauvegardez en cliquant sur “Créer Activité”
 
+Si vous désirez créer une seconde occurence de l'une de vos activités, il vous suffit de cliquer sur le lien *Dupliquer* de l'activité en question. Le duplicat sera directement enregistré dans l'inventaire de vos activités. Il vous sera possible de le modifier, si désiré, par la suite. 
+
 ***Pour ajouter des hébergements à votre inventaire:***
 1. 
 Allez dans “Inventaire” 
