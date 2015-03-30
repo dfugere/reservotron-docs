@@ -29,6 +29,7 @@
    * [Cartes interactives](cartes_interactives.md)
    * [Allotements](allotements.md)
    * Assignation de ressources
+       * Réservation de refuge par lit ou en exclusivité
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
 
