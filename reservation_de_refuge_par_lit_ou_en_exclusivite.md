@@ -19,5 +19,5 @@ Pour qu'un refuge soit disponible en réservation exclusive ou en réservation p
 * Pour la réservation exclusive : créer un hébergement correspondant au refuge dans la section inventaire > hébergement.
 * Pour la réservation par lit : créer un hébergement correspondant au refuge dans la section inventaire > Divers
 * Afin de s'assurer qu'il n'y ait pas de réservations en conflits, il faut lier les 2 modes de réservations à la même ressource :
-    * Dans divers : http://take.ms/dzbnU
+    * Dans divers : ![](https://api.monosnap.com/rpc/file/download?id=XL2DDqydflzeIKLYahYZNOTWaIkN9d&type=attachment)
     * Dans hébergement : http://take.ms/zArmo
