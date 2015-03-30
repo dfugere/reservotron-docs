@@ -6,7 +6,9 @@ Pour permettre aux clients de réserver des places à l'unité dans un refuge, i
 1. Aller dans le menu : inventaire > Divers
 2. Appuyer sur "Ajouter Divers"
 3. Entrer les informations du refuge en s'assurant de cocher la case
-4. "afficher comme hébergement" : http://take.ms/HDnwB
+4. "afficher comme hébergement" :
+![](https://api.monosnap.com/rpc/file/download?id=Kq3LMrkSuM5FUDQw6W4lcxnQlGHvhs&type=attachment)
+
 5. Appuyer sur "Créer Divers" pour sauvegarder l'information
 6. Appuyer sur "Changer les prix"
 7. Entrer un tarif global ou un tarif par participant pour l'année ou selon les saisons.
