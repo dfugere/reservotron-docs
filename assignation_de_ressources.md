@@ -1,0 +1,2 @@
+# Assignation de ressources
+
