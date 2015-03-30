@@ -31,5 +31,6 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
    * [Allotements](allotements.md)
+   * [Gestion des ressources](assignation_de_ressources.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
