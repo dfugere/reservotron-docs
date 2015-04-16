@@ -22,6 +22,11 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 12. Sélectionnez l'hébergement désiré dans la liste
 13. Cliquez sur *"Sauvegarder"*
 
+La couleur que vous avez déterminez lors de la création de votre catégorie sera celle utilisée pour annoter la carte. 
+Si vous désirez la modifier, vous devrez effectuer les changements dans la configuration de la catégorie en question. 
+
+Pour plus d'informations sur la procédure à suivre pour assigner une couleur à une catégorie, consultez notre section ***[Catégories](cat.md)***
+
 ![](https://api.monosnap.com/image/download?id=ETRAm54mBhi2BELhcuGPUlMUT4k4fi)
 
 **Vos clients pourront ainsi voir les disponibilités des hébergements directement sur la carte. **
