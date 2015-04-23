@@ -9,12 +9,15 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 2. Sélectionnez *"Hébergement"*
 3. Sélectionnez *"Site"* dans le filtre niveau (voir image ci-dessous)
 4. Cliquez sur le bouton *"Filtrer"*
+
+ ![](https://api.monosnap.com/image/download?id=QXXC1SLV6nJZrLU3ZGysP7lwg1EyYP)
 5. Cliquez sur le lien *"Modifier"* de l'hébergement affiché
 6. Choisissez une image dans la case *"Carte"*
 7. Sélectionnez *"oui"* dans la case "Publiée"
 
-![](https://api.monosnap.com/image/download?id=QXXC1SLV6nJZrLU3ZGysP7lwg1EyYP)
+![](https://api.monosnap.com/rpc/file/download?id=QV7SlJXar3Zg54O9gE2WVZNhs66AFs)
 
+**Pour annoter la carte:**
 8. Ouvrez votre page Réservotron
 9. Cliquez sur *"Hébergement"* - (Votre carte paraitra en haut de la page)
 10. Cliquez sur le lien *"Annoter la carte"*
