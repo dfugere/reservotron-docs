@@ -13,8 +13,8 @@ Réservotron offre quatre types d’utilisateurs:
 ***Guide:*** peut uniquement visualiser le tableau de bord sans avoir la possibilité de poser aucune action. 
 
 ***Pour créer un nouvel utilisateur:***
-1. Aller dans “Autre” 
-1. Sélectionnez  “Utilisateur”
+1. Aller dans le menu “Autre” 
+1. Sélectionnez  “Utilisateurs”
 1. Cliquer sur “Ajouter un utilisateur”
 1. Entrez les informations de la personne pour qui vous désirez ouvrir un compte (incluant le nom et le courriel)
 1. Déterminez le rôle que vous voulez attribuer à l’utilisateur
@@ -23,7 +23,7 @@ Réservotron offre quatre types d’utilisateurs:
 La personne pour qui vous avez créé un compte recevra les instructions de connexion au compte Réservotron de l’entreprise par courriel à l’adresse indiquée lors de la création.
 
 Si vous désirez modifier les informations ou le rôle d’un utilisateur, ou encore supprimer cet utilisateur, il vous suffit de:
-1. Allez dans “Autre” 
+1. Allez dans le menu “Autre” 
 1. Sélectionnez ”Utilisateurs”
 1. Repérez l’utilisateur désiré
 1.Cliquer sur “Modifier” ou “Supprimer” selon vos besoins
