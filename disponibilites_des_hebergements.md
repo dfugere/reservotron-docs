@@ -1,5 +1,7 @@
 # Disponibilités des Hébergements
 
+![](https://api.monosnap.com/rpc/file/download?id=AkmIwJr723hrvBRzkhthh47gNGE3N5)
+
 ![](https://api.monosnap.com/rpc/file/download?id=anfTRdwnjQYcThYW345Wuymo8uclzB)
 
 Vous pouvez également cliquer sur les réservations faites en rouge pour afficher les détails de la réservation en question. Un menu s'ouvrira alors et affichera les informations de celle-ci dont: 
@@ -14,7 +16,7 @@ Numéro de téléphone
     1. 
 Adresse
 1. 
-Les informations de l'emplacement
+Les informations de l'emplacement réservé
     1. 
 Nom du site réservé
     1. 
