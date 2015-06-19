@@ -13,6 +13,7 @@
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
        * [Disponibilités](disponibilites.md)
        * [Tableau de bord](tableau_de_bord.md)
+       * Disponibilités des Hébergements
    * [Gestion des utilisateurs](gestion_des_utilisateurs.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
