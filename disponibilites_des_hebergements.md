@@ -3,7 +3,7 @@
 Vous pouvez consulter la disponibilité de l'ensemble de vos hébergements en même temps. Cela vous permettra de savoir quels hébergements ne sont pas encore réservés pour des dates précises. 
 
 Pour accéder aux disponibilités de vos hébergement, suivez les étapes suivantes:
-1. Une fois connectés à votre compte Réservotron, cliquez sur le menu *Autres*
+1. Une fois connecté à votre compte Réservotron, cliquez sur le menu *Autres*
 2. Cliquez sur *Disponibilité Hébergement*
 
 
