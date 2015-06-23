@@ -9,6 +9,7 @@
        * [Heures d'ouverture](heures_douverture.md)
        * [Catégories](cat.md)
        * [Formulaires personnalisés](formulaires_personnalises.md)
+       * Grille tarifaire
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
        * [Disponibilités](disponibilites.md)
