@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Configuration du compte](configuration_du_compte.md)
    * [Configuration administrative](configuration_administrative.md)
-   * [Grille tarifaire](grille_tarifaire2.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
        * [Saisons](saisons.md)
@@ -11,6 +10,7 @@
        * [Catégories](cat.md)
        * [Formulaires personnalisés](formulaires_personnalises.md)
        * Grille tarifaire
+   * [Grille tarifaire](grille_tarifaire2.md)
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
        * [Disponibilités](disponibilites.md)
