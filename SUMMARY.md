@@ -24,6 +24,7 @@
    * [Gestion des commandes](gestion_des_commandes.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
+   * [Grille Tarifaire](grille_tarifaire1.md)
    * [Prix par type de participant](prix_par_type_de_participant.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
@@ -33,7 +34,6 @@
    * [Allotements](allotements.md)
    * [Assignation de ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
-   * [Grille Tarifaire](grille_tarifaire1.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
 
