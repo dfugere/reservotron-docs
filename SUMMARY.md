@@ -5,6 +5,7 @@
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
+           * Publier des sorties ou journées spécifiques
        * [Saisons](saisons.md)
        * [Heures d'ouverture](heures_douverture.md)
        * [Catégories](cat.md)
