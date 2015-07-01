@@ -16,6 +16,7 @@
        * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
        * [Tableau de bord](tableau_de_bord.md)
    * [Gestion des utilisateurs](gestion_des_utilisateurs.md)
+   * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
            * [stripe](stripe.md)
@@ -35,6 +36,5 @@
    * [Allotements](allotements.md)
    * [Assignation de ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
-* [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 * [Aide](aide.md)
 
