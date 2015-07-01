@@ -16,6 +16,7 @@
        * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
        * [Tableau de bord](tableau_de_bord.md)
    * [Gestion des utilisateurs](gestion_des_utilisateurs.md)
+       * Réinitialiser le mot de passe
    * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
