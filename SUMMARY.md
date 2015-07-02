@@ -12,6 +12,7 @@
        * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Gestion des réservations](gestion_des_reservations.md)
        * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
+           * Bloquer les réservations 
        * [Disponibilités](disponibilites.md)
        * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
        * [Tableau de bord](tableau_de_bord.md)
