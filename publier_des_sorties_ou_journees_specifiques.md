@@ -14,7 +14,7 @@ Pour changer le statut de publication d'une sortie il faut :
 
 ![Alt text](https://monosnap.com/file/laKJ1W24aP3TcwWa4khBOuxBJPcQFQ.png)
 
-4. Dans le formulaire de modification, changer l'option "publié". 
+4. Dans le formulaire, faites les modifications à la sortie
 
 ![Alt text](https://monosnap.com/file/dn3FETO9pOSqjMEo7X36t8dn3byR5a.png)
 
