@@ -38,3 +38,27 @@ Si vous créez une activité, vous pouvez suggérer la location de l’équipeme
 
 
 ![](https://monosnap.com/file/bvxjapP3xHJWmWkpt0RETgu4ILMInT.png)
+
+
+# **Suggestion Obligatoire**
+
+
+
+Il est également possible de créer une suggestion obligatoire. Celle-ci s'ajoutera au panier d'achat de façon automatique.
+
+Cette option, très utilisée pour les parc régionaux, vous permettra de vendre obligatoirement un item tel qu'un droit d'accès par exemple lors d'une réservation d'hébergement ou activité.
+
+***Pour créer des suggestions obligatoires relatives à un item de l'inventaire:***
+
+1. Allez dans le menu “Inventaire”
+1. Sélectionnez “Activité” ou "Hébergement" (*selon votre besoin*)
+1. Cliquez sur “Ajouter item”
+1. Entrez les informations désirées
+1. Cliquez sur “Ajouter suggestion” dans le bas de la page
+1. Sélectionnez le type de produit que vous voudriez recommander lorsqu’un client réserve cette activité
+1. Sélectionnez le produit que vous voulez suggérer
+2. Cochez la case *OBLIGATOIRE*
+3. Entrez la durée supplémentaire désirée
+1. Sauvegardez en cliquant sur “Créer item”
+
+![](Screen Shot 2015-07-09 at 4.56.39 PM.png)
