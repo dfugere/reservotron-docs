@@ -26,7 +26,7 @@
            * [desjardins](desjardins.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion des commandes](gestion_des_commandes.md)
-   * Comptabilité
+   * [Comptabilité](comptabilite.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
