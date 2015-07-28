@@ -27,7 +27,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
-   * [Prix par type de participant](prix_par_de_participant.md)
+   * [Prix par type de participant](prix_par_type_de_participant.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
