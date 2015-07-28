@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Configuration du compte](configuration_du_compte.md)
+   * [Comptabilité](comptabilite.md)
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
@@ -26,7 +27,6 @@
            * [desjardins](desjardins.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion des commandes](gestion_des_commandes.md)
-* [Comptabilité](comptabilite.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
