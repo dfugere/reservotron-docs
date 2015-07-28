@@ -26,7 +26,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
-   * [Grille Tarifaire](grille_tarifaire2.md)
+   * [Grille Tarifaire](grille_tarifaire1.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
    * [Forfaits et certificats cadeaux](forfaits_et_certificats_cadeaux.md)
