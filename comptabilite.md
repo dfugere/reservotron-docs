@@ -7,6 +7,17 @@
 
 Le rapport de vente vous permettra de bien gérer votre comptabilité. Il vous est possible de déterminer le type de rapport que vous voulez obtenir ainsi que la période de temps que vous voulez couvrir dans votre rapport. 
 
+Pour y accéder, suivez les étapes suivantes:
+1. Allez dans le menu ***Autres***
+2. Sélectionnez ***Rapport de ventes***
+3. Entrez la date de début de votre rapport dans le coin supérieur droit
+4. Sélectionnez la durée que vous voulez couvrir dans le rapport
+
+Le rapport s'affichera alors pour la période de temps choisie.
+
+![](https://api.monosnap.com/rpc/file/download?id=w0GWUds0EsKP8GIOkMjTam0oSm2meK)
+
+
 Réservotron offre trois type de rapport de vente:
 1. Rapport groupé par type d'item
 2. Rapport détaillé
