@@ -6,6 +6,7 @@
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
            * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
+           * taxe-touristique
        * [Saisons](saisons.md)
        * [Heures d'ouverture](heures_douverture.md)
        * [Catégories](cat.md)
