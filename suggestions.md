@@ -62,3 +62,28 @@ Cette option, très utilisée pour les parc régionaux, vous permettra de vendre
 1. Sauvegardez en cliquant sur “Créer item”
 
 ![](Screen Shot 2015-07-09 at 4.56.39 PM.png)
+
+
+#**Rabais sur les suggestions**
+
+Réservotron offre la possibilité d'appliquer des rabais sur les suggestions que vous ajoutez aux items de l'inventaire. 
+
+Cette option vous permettra de gérer des promotions et d'encourager vos clients à ajouter des items à leurs commandes.
+
+***Pour appliquer un rabais à une suggestions:***
+1. Allez dans le menu "Inventaire"
+2. Sélectionnez "Acitivité" ou "Hébergement" (*selon votre besoin*)
+3. Cliquez sur “Ajouter item”
+1. Entrez les informations désirées
+1. Cliquez sur “Ajouter suggestion” dans le bas de la page
+1. Sélectionnez le type de produit que vous voudriez recommander lorsqu’un client réserve cette activité
+1. Sélectionnez le produit que vous voulez suggérer
+2. Entrez le montant du rabais désiré dans la case *REBATE*
+3. Sélectionnez le type de rabais désiré. Vous pouvez choisir un rabais par montant ou un rabais par pourcentage
+4. Sauvegardez en cliquant sur "Créer item"
+
+![](https://api.monosnap.com/rpc/file/download?id=cqfQOd1DQXVwOL3VrxbOGOI8Fig94D) 
+
+![](https://api.monosnap.com/rpc/file/download?id=ZQTFoygaPOGf30gesxTriZyZVbXIAj)
+
+![](https://api.monosnap.com/rpc/file/download?id=g4gh9SFxApLVBsVwTvwnnthAFiXpQQ)
