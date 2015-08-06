@@ -70,7 +70,7 @@ Réservotron offre la possibilité d'appliquer des rabais sur les suggestions qu
 
 Cette option vous permettra de gérer des promotions et d'encourager vos clients à ajouter des items à leurs commandes.
 
-***Pour appliquer un rabais à une suggestions:***
+***Pour appliquer un rabais à une suggestion:***
 1. Allez dans le menu "Inventaire"
 2. Sélectionnez "Acitivité" ou "Hébergement" (*selon votre besoin*)
 3. Cliquez sur “Ajouter item”
