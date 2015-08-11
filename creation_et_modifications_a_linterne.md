@@ -36,3 +36,5 @@ Vous pouvez également gérer vos certificats cadeaux en temps réel afin d’ef
 1. Sélectionnez “Cartes”
 
 Il vous sera ainsi possible de voir les montants des certificats cadeaux vendues, ainsi que le solde disponible dans chacune d’entre elles
+
+#####*Pour modifier une réservation existante:*
