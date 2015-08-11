@@ -26,7 +26,7 @@ Vous serez redirigé vers l’état de votre commande. Il vous sera ensuite poss
 1. Allez dans le menu: "Commandes"
 2. Cliquez sur la facture de la commande que vous désirez modifier
 3. Cliquez sur le bouton "Modifier la commande"
-4. Modifier les informations désirées
+4. Modifiez les informations désirées
 5. Cliquez sur le bouton "Passez à la caisse"
 6. Cliquez sur le bouton "Confirmez la commande"
 
@@ -38,3 +38,8 @@ Vous pouvez également gérer vos certificats cadeaux en temps réel afin d’ef
 Il vous sera ainsi possible de voir les montants des certificats cadeaux vendues, ainsi que le solde disponible dans chacune d’entre elles
 
 #####*Pour modifier une réservation existante:*
+1. Allez dans le menu "Réservations"
+2. Cliquez sur la réservation que vous désirez modifier
+3. Cliquez sur le bouton "Modifier la commande"
+4. Modifiez les informations désirées
+5. Sauvegardez en cliquant sur "Passez à la caisse et confirmez la commande"
