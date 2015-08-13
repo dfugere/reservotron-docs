@@ -9,7 +9,7 @@ Il vous est possible de prendre ou modifier des réservations à l’interne. Ai
 1. Cliquez sur “Panier” dans le coin supérieur droit de votre écran
 1. Cliquez sur “Passer à la caisse ”
 1. Sélectionnez “Autre” dans la “Méthode de paiement”
-1. Cliquez sur “Confirmer la commande”
+1. Cliquez sur “Confirmer la commande” 
 
 Vous serez redirigé vers l’état de votre commande. Il vous sera ensuite possible de sélectionner toute autre méthode de paiement offerte (incluant argent comptant etc.)
 
