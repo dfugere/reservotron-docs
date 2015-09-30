@@ -5,7 +5,7 @@ Les ressources servent à partager un inventaire entre différents produits pouv
 Voici quelques exemples d'utilisation de ressources : 
 
 * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
-* Appliquer un inventaire de kayaks à une activité guidées et à une réservation de kayak à l'heure. 
+* Appliquer un inventaire de kayaks à une activité guidée et à une réservation de kayak à l'heure. 
 
 
 
