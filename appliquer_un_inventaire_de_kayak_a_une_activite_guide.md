@@ -1,9 +1,13 @@
-# Réservation de refuge par lit ou en exclusivité
+# Appliquer un inventaire de kayaks à une activité guidée
 
 
-Pour permettre aux clients de réserver des places à l'unité dans un refuge, il faut utiliser le type de réservation "Divers". Voici les étapes à suivre dans l'ordre si vous avez besoin d'ajouter des refuges qui peuvent être réservés par lits dans le système : 
+1. Aller dans le menu : inventaire > Activités
+2. Via l'activité, appuyer sur "Modifier l'activitée"
 
-1. Aller dans le menu : inventaire > Divers
-2. Appuyer sur "Ajouter Divers"
+Une fois dans le formulaire de modification, allez au bas de la page et : 
+
+1. Appuyez sur : ajouter une ressource
+2. sélectionnez une ressource à ajouter
+3. sauvegardez l'activité
 
 ![Alt text](https://monosnap.com/file/xbUAbZUKtjfeEaE4Df7BWl2Ut771qb.png)
