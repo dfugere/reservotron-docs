@@ -9,3 +9,41 @@ Voici quelques exemples d'utilisation de ressources :
 
 
 
+#### Prix des ressources
+
+
+
+
+Il est possible d'ajouter des tarifs à vos ressources. Cette option vous permettra de charger des frais pour la location d'une ressource nécessaire à l'activité en question.
+
+Pour ajouter des prix aux ressources, suivez les étapes suivantes:
+
+1. Allez dans le menu Activités
+2. Repérez l'activité désirée
+3. Cliquez sur le lien **"Changer les liens des ressources"**
+4. Sélectionnez la ressource désirée
+5. Ajoutez le prix que vous désirez charger
+6. Spécifiez la saison pour laquelle la tarification est en vigueur
+
+Vous pouvez ajouter des prix pour chacune des ressources utilisées, ainsi que plusieurs tarification. 
+
+
+
+
+![](Screen Shot 2015-10-06 at 12.29.49 PM.png)
+
+**Exemple**: une activité requiert la location d'un kayak. En configurant l'activité, vous pouvez spécifier l'inventaire de kayak en tant que ressource et ajouter la tarification par type de participant.
+Une fois l'activité créée, vous pouvez spécifier le prix des ressources. Le prix de la ressource sera ajouté au panier d'achat. Votre client sera en mesure de consulter les détails dans le panier d'achat.
+
+La ressource sera ajoutée selon la capacité indiquée lors de sa création et le nombre de participant à l'activité.Cela étant dit, vous gardez le contrôle et pouvez modifier la quantité de ressources ajoutées à la commande du client.
+
+####Pour modifier la quantité de ressources:
+
+1. Prenez la commande du client en sélectionnant la date, le type de participant et la quantité désirée
+2. Passez à la caisse
+3. Cliquez sur le lien **"Éditer"** à côté de la ressource
+4. Modifiez la quantité pour celle désirée
+5. Sauvegardez
+
+
+**Exemple:** Une activité de canot offre la possibilité de placer deux adultes et un enfant ou deux enfants et un adulte dans le même canot. Or, la ressource est configurée pour accueillir un maximum de deux participant par embarcation. Vous aurez la possibilité de modifier le nombre de ressources ajoutées simplement grâce à cette fonctionnalité.
