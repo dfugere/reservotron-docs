@@ -9,3 +9,4 @@ Voici quelques exemples d'utilisation de ressources :
 
 
 
+Il est possible d'ajouter des tarifs à vos ressources
