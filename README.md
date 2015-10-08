@@ -38,7 +38,6 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
    * [Allotements](allotements.md)
-    * [Assignation des ressources](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
    * [Gestion des ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
