@@ -13,3 +13,8 @@ Cliquez sur “Ajouter une saison”
 Entrez les informations générales telles que le nom, la date de début et de fin
 1. 
 Sauvegardez en cliquant sur “Créer une saison”
+
+
+####Groupe de Saisons
+
+Afin de gérer plus facilement vos différentes saisons, 
