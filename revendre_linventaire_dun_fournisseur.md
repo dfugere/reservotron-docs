@@ -1,2 +1,15 @@
 # Revendre l'inventaire d'un fournisseur
 
+##Création d'un catalogue et sélection du partenaire
+Pour créer un catalogue, suivez les étapes suivantes:
+1. Allez dans Menu -> Inventaire -> Catalogues
+2. Cliquez sur **Ajouter Catalogue**
+3. Ajoutez un nom pour votre catalogue
+4. Saisissez le pourcentage de la commission du revendeur. *Si vous désirez spécifier une commission différente par item, laissez cette case vide.*
+5. Cochez dans les listes les items que vous désirez partager avec le revendeur. Si vous voulez spécifier une commission par item, ajoutez le pourcentage à côté du nom de l'item en question. 
+6. Sélectionnez un partenaire dans la liste déroulante. - *Vous pouvez rajouter autant de partenaires que désiré*.
+7. Validez le tout en cliquant sur **Créer Catalogue**.
+
+
+
+##Ajouter l'inventaire partagé du fournisseur
