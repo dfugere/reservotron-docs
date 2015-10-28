@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Revendre l'inventaire d'un fournisseur
 * [Configuration du compte](configuration_du_compte.md)
    * [Configuration administrative](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
@@ -40,5 +39,6 @@
 * [Assignation de ressources](assignation_de_ressources.md)
    * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
    * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
+* Revendre l'inventaire d'un fournisseur
 * [Aide](aide.md)
 
