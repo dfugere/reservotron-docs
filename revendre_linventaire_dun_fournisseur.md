@@ -18,8 +18,8 @@ Une fois l'inventaire du founisseur partagé, vous pouvez l'ajouter à votre com
 
 Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
-1. Allez dansMenu -> Inventaire -> Inventaire partagé
+1. Allez dans Menu -> Inventaire -> Inventaire partagé
 2. Vous verrez une liste des items que le fournisseur a partagé avec vous.
-3. Dans chaque case blanche, sélectionnez la catégorie à laquelle vous voulez rajouter l'item.
+3. Dans chaque case blanche, sélectionnez la catégorie à laquelle vous voulez rajouter l'item
 4. Répétez cette étape pour l'ensemble des inventaires partagés par des fournisseurs
-5. Sauvegardez les changements.
+5. Sauvegardez les changements
