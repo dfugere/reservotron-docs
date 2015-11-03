@@ -9,7 +9,7 @@ Pour créer des catégories, suivez les étapes suivantes:
 2. Cliquez sur ***Ajouter une catégorie***
 3. Entrez les informations désirées telles que le nom de la catégorie
 4. Sélectionnez le type de la catégorie
-5. i vous voulez assigner une catégorie "parent" à votre catégorie, sélectionnez la dans la liste déroulante.
+5. Si vous voulez assigner une catégorie "parent" à votre catégorie, sélectionnez la dans la liste déroulante.
 4. Choisissez une ***couleur*** de votre choix pour représenter la catégorie. Cette dernière sera utilisée pour annoter la carte de votre site. 
 4. Sélectionnez une image illustrant votre catégorie
 5. Si désiré, sélectionnez une carte en cliquant sur **Choose File**. Afin de la voir, la case ***publiée*** doit être cochée.
