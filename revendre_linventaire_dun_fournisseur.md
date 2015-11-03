@@ -20,6 +20,6 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
 1. Allez dansMenu -> Inventaire -> Inventaire partagé
 2. Vous verrez une liste des items que le fournisseur a partagé avec vous.
-3. Dans chaque case blanche, cliquez et sélectionnez la catégorie à laquelle vous voulez rajoute l'item.
+3. Dans chaque case blanche, sélectionnez la catégorie à laquelle vous voulez rajouter l'item.
 4. Répétez cette étape pour l'ensemble des inventaires partagés par des fournisseurs
 5. Sauvegardez les changements.
