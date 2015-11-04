@@ -41,4 +41,5 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
    * [Gestion des ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
+*  [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Aide](aide.md)
