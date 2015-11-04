@@ -11,6 +11,9 @@ Pour créer un catalogue, suivez les étapes suivantes:
 7. Validez le tout en cliquant sur **Créer Catalogue**.
 
 
+![](Screen Shot 2015-11-04 at 11.27.10 AM.png)
+
+
 
 ##Ajouter l'inventaire partagé du fournisseur
 
@@ -23,3 +26,6 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 3. Dans chaque case blanche, sélectionnez la catégorie à laquelle vous voulez rajouter l'item
 4. Répétez cette étape pour l'ensemble des inventaires partagés par des fournisseurs
 5. Sauvegardez les changements
+
+
+![](Screen Shot 2015-11-04 at 2.04.39 PM.png)
