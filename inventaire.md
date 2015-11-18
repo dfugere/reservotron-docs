@@ -18,6 +18,10 @@ Ajoutez les informations désirées
 1. Cochez la case "Publiée"
 1. 
 Sauvegardez en cliquant sur “Créer Activité”
+1. Cliquez sur le lien "Modifier les horaires"
+2. Cliquez sur la case "Créer un nouvel horaire"
+3. Ajoutez les informations
+4. Sauvegardez
 
 Si vous désirez créer une seconde occurence de l'une de vos activités, il vous suffit de cliquer sur le lien *Dupliquer* de l'activité en question. Le duplicat sera directement enregistré dans l'inventaire de vos activités. Il vous sera possible de le modifier, si désiré, par la suite. 
 
