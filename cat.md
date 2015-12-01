@@ -22,6 +22,9 @@ En attribuant une image à votre catégorie, vous déterminez ce que vos clients
 
 
 *La couleur de la catégorie sera utilisée lors de l'annotation de la carte interactive de votre site. Pour plus d'informations sur la procédure à suivre pour en créer une, consultez la section **[Carte Interactive](cartes_interactives.md)** *.
+
+
+
 ## Positions
 En indiquant une position à votre catégorie, vous influencez l'ordre dans lequel vos catégories apparaissent dans l'inventaire.
 Si vous voulez qu'une catégorie apparaisse en premier, vous devrez lui attribuer une position de **1**. 
