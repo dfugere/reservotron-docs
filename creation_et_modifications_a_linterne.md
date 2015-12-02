@@ -1,4 +1,4 @@
-# Création et modification des réservations à l’interne
+# Création et modification des réservations et commandes à l’interne
 
 Il vous est possible de prendre ou modifier des réservations à l’interne. Ainsi, vos employés pourront entrer les réservations téléphoniques dans le système et garder l’inventaire à jour. 
 
