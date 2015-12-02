@@ -10,7 +10,7 @@ Pour configurer votre compte:
 
 1. Ajoutez l’adresse de votre entreprise dans le champ “Adresse pour facturation”. Cette information sera visible dans les factures envoyées aux clients suite à une réservation ou transaction en ligne. Il vous est possible d’ajouter une adresse courriel ou un numéro de téléphone si désiré
 
-1. Indiquez vos termes et conditions de réservation en ligne dans le champs “Termes et conditions”. Le client sera dans l’obligation d’accepter vos termes en confirmant une transaction
+1. Indiquez vos termes et conditions de réservation en ligne dans le champs “**[Termes et conditions](termes_et_conditions.md)**”. Le client sera dans l’obligation d’accepter vos termes en confirmant une transaction
 
 1. Ajoutez les numéros de taxes propres à votre entreprise
 
