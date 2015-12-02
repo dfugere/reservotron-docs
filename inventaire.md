@@ -76,3 +76,13 @@ Sélectionnez “Cadeaux” dans “Type de forfait”
 Ajoutez les informations désirées
 1. 
 Sauvegardez en cliquant sur “Créer package”
+
+
+***Pour ajouter des produits à votre inventaire"***
+1. Allez dans "Inventaire"
+2. Sélectionnez "Produits"
+3. Cliquez sur "Ajouter produit"
+4. Ajoutez les informations désirées
+5. Sauvegardez en cliquant sur "Créer produit"
+
+** Vous pouvez rajouter une localisation pour vos produits en cliquant sur le menu déroulant  Location et sélectionnant le lieu désiré.
