@@ -25,7 +25,7 @@
            * [moneris](moneris.md)
            * [desjardins](desjardins.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-   * Termes et conditions
+   * [Termes et conditions](termes_et_conditions.md)
    * [Comptabilité](comptabilite.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
