@@ -14,7 +14,7 @@ Les termes de réservation vous permettront d'indiquer les renseignements import
 
 Une fois créé, vous pourrez ajouter les termes désirés à un item de votre inventaire.
 
-**Exemple**: lorsque vous créez un hébergement, commencez à saisir le nom de vos termes dans la case ***Terms***.
+**Exemple**: lorsque vous créez un hébergement (ou tout autre item), commencez à saisir le nom de vos termes dans la case ***Terms***.
 
 ![](https://api.monosnap.com/rpc/file/download?id=wucEbNy16lbyxWe0jpzPU9cVjrhnpB)
 
@@ -25,5 +25,14 @@ Les paramètres de paiement sont généralement définis par défaut dans la con
 
 Vous pouvez cependant déterminer des options de paiement supplémentaires pour mieux répondre à vos besoins.
 
-Cette option vous sera utile
-ex: 30% lorsqu'on confirme, 30% dans les 30 jours précédents et 40% dans les 7 jours précédents...
+Cette option vous sera utile si vous désirez spécifier des paiements automatisés sur plusieurs étapes:
+
+**Exemple**: 30% lorsqu'on confirme, 30% dans les 30 jours précédents et 40% dans les 7 jours précédents...
+
+![](https://api.monosnap.com/rpc/file/download?id=zXBnMFmVhV9RFj60CJqHFWBpN4yGgD)
+
+**Exemple**: lorsque vous créez un hébergement (ou tout autre item), repérez la case ***Option de paiement***. Cliquez sur la liste déroulante et sélectionnez l'option de paiement désirée.
+
+
+
+![](https://api.monosnap.com/rpc/file/download?id=LGpZk3QyC3VwqOuAuZKwwUMKSB7sTm)
