@@ -1,8 +1,7 @@
 # Termes et options de paiement
 
 ##Termes de réservation
-Un client est dans l’obligation d’accepter vos termes avant de pouvoir confirmer la transaction. 
-
+Les termes de réservation vous permettront d'indiquer les renseignements importants dans vos commandes. Vos clients seront dans l'obligation de les accepter avant de pouvoir poursuivre la réservation et passer la commande.
 ####Pour ajouter des termes
 1. Allez dans le menu Autres → Termes
 2. Cliquez sur *Ajouter Terme*
@@ -10,6 +9,8 @@ Un client est dans l’obligation d’accepter vos termes avant de pouvoir confi
 4. Enregistrez le tout
 
 ######*Vous pouvez rajouter autant de termes que nécessaire*
+
+![](https://api.monosnap.com/rpc/file/download?id=zPgPXDTEvuwtKsTgomcBIuYAT2mz7T)
 
 Une fois créé, vous pourrez ajouter les termes désirés à un item de votre inventaire.
 
