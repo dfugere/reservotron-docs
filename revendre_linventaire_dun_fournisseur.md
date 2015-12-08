@@ -2,7 +2,7 @@
 
 ##Création d'un catalogue et sélection du partenaire
 Pour créer un catalogue, suivez les étapes suivantes:
-1. Allez dans Menu -> Inventaire -> Catalogues
+1. Allez dans Menu → Inventaire → Catalogues
 2. Cliquez sur **Ajouter Catalogue**
 3. Ajoutez un nom pour votre catalogue
 4. Saisissez le pourcentage de la commission du revendeur. *Si vous désirez spécifier une commission différente par item, laissez cette case vide.*
@@ -21,7 +21,7 @@ Une fois l'inventaire du founisseur partagé, vous pouvez l'ajouter à votre com
 
 Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
-1. Allez dans Menu -> Inventaire -> Inventaire partagé
+1. Allez dans Menu → Inventaire → Inventaire partagé
 2. Vous verrez une liste des items que le fournisseur a partagé avec vous.
 3. Dans chaque case blanche, sélectionnez la catégorie à laquelle vous voulez rajouter l'item
 4. Répétez cette étape pour l'ensemble des inventaires partagés par des fournisseurs
