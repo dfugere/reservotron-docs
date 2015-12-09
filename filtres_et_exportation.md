@@ -62,3 +62,10 @@ Ce menu rassemble tous les renseignements sur les participants de vos activités
 
 ![](https://api.monosnap.com/rpc/file/download?id=W6W2UavTdPpHjwhP2FgCpGiU1TMRr1)
 
+Pour accéder au menu *Participants*, allez dans *Commandes*→*Participants*
+
+
+###Réservations
+
+
+
