@@ -18,9 +18,14 @@ Le menu *Client* vous permettra de consulter les renseignements de vos clients. 
 8. Pays
 9. Code Postal
 
-Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
 
 ![](https://api.monosnap.com/rpc/file/download?id=TY7CwwaYJJkw5zY4PZVeaHE5YYVK0c)
+
+Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
+
+![](https://api.monosnap.com/rpc/file/download?id=GeagSCbyM3SNEIEAHI7ulBdrEwzd3a)
+
+
 
 
 Pour accéder au menu *Client*, allez dans *Commandes*→*Clients*
@@ -48,7 +53,6 @@ Le menu *Paiements* vous permettra de consulter tous les paiements effectués et
 Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
 
 
-![](https://api.monosnap.com/rpc/file/download?id=GeagSCbyM3SNEIEAHI7ulBdrEwzd3a)
 
 Pour accéder au menu *Paiements*, allez dans *Commandes*→*Paiements*
 
@@ -82,8 +86,10 @@ Grâce à cette liste, vous pourrez voir les détails des réservations (détais
 
 Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
 
-
+ 
 
 Pour accéder au menu *Réservations*, allez dans *Tableau de bord*→*Réservations*
 
+
+![](https://api.monosnap.com/rpc/file/download?id=suKjOinQYyLBTLIL0J7KJ7znhOkxUK)
 
