@@ -43,10 +43,12 @@ Le menu *Paiements* vous permettra de consulter tous les paiements effectués et
     4. facturé (invoiced)
     5. annulé (canceled)
 
+![](https://api.monosnap.com/rpc/file/download?id=26BbFCqYsPupL0CEGlpElqbgAoEgiY)
+
 Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
 
 
-![](https://api.monosnap.com/rpc/file/download?id=26BbFCqYsPupL0CEGlpElqbgAoEgiY)
+![](https://api.monosnap.com/rpc/file/download?id=GeagSCbyM3SNEIEAHI7ulBdrEwzd3a)
 
 Pour accéder au menu *Paiements*, allez dans *Commandes*→*Paiements*
 
@@ -67,5 +69,17 @@ Pour accéder au menu *Participants*, allez dans *Commandes*→*Participants*
 
 ###Réservations
 
+#####Filtres disponibles pour faciliter la recherche:
+1. Type de produits
+2. Leasable
+3. Débutant le 
+4. Se terminant le
+
+
+Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
+
+
+
+Pour accéder au menu *Réservations*, allez dans *Tableau de bord*→*Réservations*
 
 
