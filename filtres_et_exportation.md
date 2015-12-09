@@ -7,7 +7,7 @@ Vous pourrez accéder aux renseignements relatifs à vos réservations, clients,
 ####Clients
 Le menu *Client* vous permettra de consulter les renseignements de vos clients. Vous pouvez utiliser les filtres pour rechercher l'information dont vous avez besoin. Grâce à cette liste, vous pourrez voir les détails du client (renseignements, historique de commandes et commentaires), modifier ses informations et créer une nouvelle commande pour ce client.
 
-#####Filtres:
+#####Filtres disponibles pour faciliter la recherche:
 1. Nom
 2. Courriel
 3. Organisation
@@ -21,3 +21,6 @@ Le menu *Client* vous permettra de consulter les renseignements de vos clients. 
 Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur les liens de téléchargement disponibles à la fin de la page.
 
 ![](https://api.monosnap.com/rpc/file/download?id=TY7CwwaYJJkw5zY4PZVeaHE5YYVK0c)
+
+
+Pour accéder au menu *Client*, allez dans *Commandes*→*Clients*
