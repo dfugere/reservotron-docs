@@ -24,3 +24,8 @@ Vous pouvez aussi exporter la liste (ou les résultats obtenus) en cliquant sur 
 
 
 Pour accéder au menu *Client*, allez dans *Commandes*→*Clients*
+
+
+
+####Paiements
+Le menu *Paiements*
