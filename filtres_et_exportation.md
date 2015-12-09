@@ -52,4 +52,13 @@ Pour accéder au menu *Paiements*, allez dans *Commandes*→*Paiements*
 
 
 ####Participants
+Ce menu rassemble tous les renseignements sur les participants de vos activités.
+
+#####Filtres disponibles pour faciliter la recherche:
+1. Nom et prénom
+2. Courriel (contient, est égal à, commence par, se termine par)
+3. Type de participant (déterminé par ceux créés dans votre inventaire)
+
+
+![](https://api.monosnap.com/rpc/file/download?id=W6W2UavTdPpHjwhP2FgCpGiU1TMRr1)
 
