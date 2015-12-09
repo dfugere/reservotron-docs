@@ -69,6 +69,10 @@ Pour accéder au menu *Participants*, allez dans *Commandes*→*Participants*
 
 ###Réservations
 
+Le menu *Réservations* vous permettra de consulter les renseignements aux réservations effectuées. Vous pouvez utiliser les filtres pour rechercher l'information dont vous avez besoin rapidement. 
+Grâce à cette liste, vous pourrez voir les détails des réservations (détais de la commande, statut, détails du clients, paiements, notes à l'interne, commentaires). En cliquant sur la réservation désirée, vous pourrez facilement appliquer un rabais, passer à la caisse, modifier ou même annuler la commande.
+
+
 #####Filtres disponibles pour faciliter la recherche:
 1. Type de produits
 2. Leasable
