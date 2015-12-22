@@ -11,6 +11,9 @@ Les certificats et forfaits cadeaux permettent de diversifier l’offre de l’i
 1. Sauvegardez en cliquant sur “Créer package”
 
 
+Certains forfaits peuvent nécessiter une 
+
+
 ***Pour créer un certificat cadeau:***
 1. Allez dans le menu “Inventaire”
 1. Sélectionnez “Certificats Cadeaux”
