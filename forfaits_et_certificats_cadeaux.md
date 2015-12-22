@@ -15,6 +15,11 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 
 ##Pour créer un forfait sur mesure :
 1. Allez dans le menu *Inventaire* → *Activités*
+2. Cliquez sur *Ajouter activité*
+3. Ajoutez les informations désirées
+4. Ajoutez les types de participants
+5. Sauvegardez votre activité
+6. Cliquez sur le bouton *Modifier l'activité* et séectionnez *Modifier les items* dans la liste déroulante
 
 
 ***Pour créer un certificat cadeau:***
