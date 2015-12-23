@@ -37,6 +37,7 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 7. Indiquer la durée de l'élément
 8. La case *Rebate* vous permettra d'ajuster le tarif de l'item tel que désiré. Par exemple: si vous voulez l'inclure gratuitement, vous devez indiquer dans rebate :  100%. Si vous voulez avoir 100% du prix, le rebate doit être fixé à 0%.
 6. Répétez ces étapes pour tous les éléments que vous voulez ajouter à votre forfait.
+7. Sauvegardez le forfait.
 
 
 ***Pour créer un certificat cadeau:***
