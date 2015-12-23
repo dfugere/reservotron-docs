@@ -32,6 +32,7 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 2. Cliquez sur le bouton *Add bundle item*
 3. Dans *Leasable type* sélectionnez la catégorie de votre inventaire que vous désirez inclure
 4. Une case *Leasable* apparaitra alors. Sélectionnez l'item à ajouter au forfait.
+5. Indiquez le jour de l'activité
 
 
 ***Pour créer un certificat cadeau:***
