@@ -35,8 +35,8 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 5. Indiquez le jour de où se déroulera l'item (*ex: si vous offrez  un forfait nuitée + activité, vous pourrez indiquer que la nuitée sera le jour 1 et l'activité le jour 2*). Si tous vos éléments se déroulent la même journée, indiquez "1" dans toutes les cases.
 6. Ajoutez l'heure de début. Si celle-ci est la même que l'horaire ajouté à votre activité, vous pouvez la laisser 00:00 par défaut.
 7. Indiquer la durée de l'élément
-8. La case *Rebate* vous permettra d'ajuster le tarif de l'item tel que désiré. Par exemple: si vous voulez l'inclure gratuitement, vous devez indiquer dans rebate :  100%. Si vous voulez avoir 100% du prix
-6. Répétez ces 
+8. La case *Rebate* vous permettra d'ajuster le tarif de l'item tel que désiré. Par exemple: si vous voulez l'inclure gratuitement, vous devez indiquer dans rebate :  100%. Si vous voulez avoir 100% du prix, le rebate doit être fixé à 0%.
+6. Répétez ces étapes pour tous les éléments que vous voulez ajouter à votre forfait.
 
 
 ***Pour créer un certificat cadeau:***
