@@ -29,7 +29,8 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 
 ####Étape 3:
 1. Cliquez sur le bouton *Modifier l'activité* et séectionnez *Modifier les éléments inclus* dans la liste déroulante.
-2. 
+2. Cliquez sur le bouton *Add bundle item*
+3. 
 
 
 ***Pour créer un certificat cadeau:***
