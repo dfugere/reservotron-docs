@@ -33,6 +33,7 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 3. Dans *Leasable type* sélectionnez la catégorie de votre inventaire que vous désirez inclure
 4. Une case *Leasable* apparaitra alors. Sélectionnez l'item à ajouter au forfait.
 5. Indiquez le jour de où se déroulera l'item (*ex: si vous offrez  un forfait nuitée + activité, vous pourrez indiquer que la nuitée sera le jour 1 et l'activité le jour 2*). Si tous vos éléments se déroulent la même journée, indiquez "1" dans toutes les cases.
+6. Ajoutez l'heure de début. Si 
 6. Répétez ces 
 
 
