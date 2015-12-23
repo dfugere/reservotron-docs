@@ -14,12 +14,22 @@ Les certificats et forfaits cadeaux permettent de diversifier l’offre de l’i
 Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce type de besoin, vous pouvez utiliser les activités pour configurer vos forfaits sur mesure.
 
 ##Pour créer un forfait sur mesure :
+####Étape 1:
 1. Allez dans le menu *Inventaire* → *Activités*
 2. Cliquez sur *Ajouter activité*
 3. Ajoutez les informations désirées
 4. Ajoutez les types de participants
 5. Sauvegardez votre activité
-6. Cliquez sur le bouton *Modifier l'activité* et séectionnez *Modifier les items* dans la liste déroulante
+
+
+####Étape 2:
+1. Cliquez sur le bouton *Modifier l'activité* et sélectionnez *Modifier les horaires* dans la liste déroulante.
+2. Ajoutez les horaires de votre activité. Vous pouvez ajouter autant d'occurence que nécessaire.
+3. Sauvegardez votre horaire
+
+####Étape 3:
+1. Cliquez sur le bouton *Modifier l'activité* et séectionnez *Modifier les éléments inclus* dans la liste déroulante.
+2. 
 
 
 ***Pour créer un certificat cadeau:***
