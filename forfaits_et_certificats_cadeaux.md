@@ -40,6 +40,8 @@ Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce t
 7. Sauvegardez le forfait.
 
 
+![](Screen Shot 2015-12-23 at 11.31.04 AM.png)
+
 ***Pour créer un certificat cadeau:***
 1. Allez dans le menu “Inventaire”
 1. Sélectionnez “Certificats Cadeaux”
