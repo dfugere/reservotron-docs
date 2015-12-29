@@ -1,4 +1,4 @@
-# Ajoutez Réservotron sur votre site
+# Ajoutez Réservotron sur votre site et Intégration
 
 Vous pouvez ajouter Réservotron directement sur votre site web pour faciliter la redirection de vos clients vers la réservation en ligne. Pour cela il suffit de suivre les étapes suivantes:
 
