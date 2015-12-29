@@ -6,3 +6,5 @@ Réservotron vous permet d'ajouter des traductions en français, anglais et alle
 
 ####Pour ajouter la traduction à votre inventaire:
 1. 
+
+![](Activités | Reservotron 2015-12-29 09-54-14.png)
