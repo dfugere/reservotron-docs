@@ -15,4 +15,14 @@ Répetez ces étapes pour la totalité de votre inventaire afin de le rendre ent
 
 Une fois sur l'interface cliente, vos clients pourront basculer entre la version française et anglaise de votre compte. Tous les articles traduits seront disponibles dans les deux ou plusieurs versions.
 
+####Configuration administrative :
+
 ![](Activités | Reservotron 2015-12-29 09-54-14.png)
+
+####Interface anglaise :
+
+![](https://api.monosnap.com/rpc/file/download?id=NqOCozNhRvyXslvyzzU0VXeGta3i7t)
+
+####Interface française :
+
+![](https://api.monosnap.com/rpc/file/download?id=QmLQq3W78xghAHY9oi4X9oLFtFi02Y)
