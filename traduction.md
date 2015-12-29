@@ -11,6 +11,8 @@ Réservotron vous permet d'ajouter des traductions en français, anglais et alle
 4. Après avoir cliqué sur la traduction que vous voulez ajouter, une page s'ouvrira avec votre configuration en français. Modifiez les renseignements et remplacez les par la traduction désirée.
 5. Sauvegardez votre article.
 
+Répetez ces étapes pour la totalité de votre inventaire afin de le rendre multilingue.
+
 Une fois sur l'interface cliente, vos clients pourront basculer entre la version française et anglaise de votre compte.
 
 ![](Activités | Reservotron 2015-12-29 09-54-14.png)
