@@ -15,3 +15,10 @@ Vous pouvez ajouter Réservotron directement sur votre site web pour faciliter l
 ##Intégration
 
 Si vous ne désirez pas rediriger vos clients vers la page de votre compte Réservotron, vous pouvez insérer un widget dans le code de votre site web. Celui-ci vous permettra d'ajouter le panier d'achat directement à votre site et d'effectuer les transactions sans avoir à le quitter.
+
+1. Accédez au code de votre site web
+2. Ajoutez le code suivant à l'intérieur de votre balise : 
+<iframe id="reservotron-shopping-cart" src="http://staging.reservotron.com/cime-aventures/widgets/cart" frameborder="0" width="222" height="50"></iframe>                  
+       <script async type="text/javascript" src="[http://localhost:3000/assets/widget.js](http://localhost:3000/assets/widget.js)"></script>
+3. Attention: il faut remplacer "cime-aventures" par le nom de votre compte Réservotron tel qu'il figure dans le URL de ce dernier.
+4. Enregistrez les modifications apportées au code
