@@ -24,3 +24,6 @@ Si vous ne désirez pas rediriger vos clients vers la page de votre compte Rése
 4. Attention: dans les deux cas, il faut remplacer "cime-aventures" par le nom de votre compte Réservotron tel qu'il figure dans le URL de ce dernier.
 4. Enregistrez les modifications apportées au code
 5. Rafraichissez votre site web. Vous verrez le panier d'achat apparaitre directement dans le site. Vos clients pourront effectuer les transactions sans avoir à le quitter.
+
+
+![](Screen Shot 2015-12-29 at 4.03.21 PM.png)
