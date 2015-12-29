@@ -23,3 +23,4 @@ Si vous ne désirez pas rediriger vos clients vers la page de votre compte Rése
 3. Ajoutez ensuite le code suivant à la fin de votre page d'activités : <iframe id="reservotron-store-content" src="http://staging.reservotron.com/cime-aventures?c=1107&widget=1" frameborder="0" width="900" height="700"></iframe>
 4. Attention: dans les deux cas, il faut remplacer "cime-aventures" par le nom de votre compte Réservotron tel qu'il figure dans le URL de ce dernier.
 4. Enregistrez les modifications apportées au code
+5. Rafraichissez votre site web. Vous verrez le panier d'achat apparaitre.
