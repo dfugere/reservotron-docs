@@ -13,3 +13,5 @@ Vous pouvez ajouter Réservotron directement sur votre site web pour faciliter l
 ![](https://monosnap.com/file/AcS8TtdsswphjOL9a03b57RtS8ffjV.png)
 
 ##Intégration
+
+Si vous ne désirez pas rediriger vos clients vers la page de votre compte Réservotron, vous pouvez insérer un widget dans le code de votre site web. Celui-ci vous permettra d'ajouter le panier d'achat directement à votre site et d'effectuer les transactions sans avoir à le quitter.
