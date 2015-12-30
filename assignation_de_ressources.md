@@ -30,8 +30,9 @@ Après avoir créé votre article, suivez les étapes suivantes pour assigner un
 3. Sélectionnez les options qui s'appliquent à l'usage de la ressource. 
 4. Sauvegardez
 
-Les options offertes vous permettront de 
+Les options offertes vous permettront de bien ciber les besoins spécifiques de chaque activité. Par exemple, vous pouvez choisir de bloquer une instance de votre ressource, ou de l'utiliser au complet selon les besoins de votre configuration.
 
+Vous pouvez aussi ajouter des exceptions.
 
 ![](https://api.monosnap.com/rpc/file/download?id=FaFMok88gmO1nUz6mzYuJq8JQnzN04)
 
