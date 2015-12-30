@@ -16,7 +16,9 @@ Pour créer une ressource, suivez les étapes suivantes:
 4. Indiquez la quantité et la capacité de votre ressource
 5. Sauvegardez la ressource
 
+*Exemple: Si vous avez 10 canots et que chacun peut accueillir deux personnes, vous devez alors indiquer 10 dans quantité et 2 dans capacité*
 
+![](https://api.monosnap.com/rpc/file/download?id=aI8Z29hRdBsDJWAz0bZ0g2iXMX6IkW)
 
 ####Assigner une ressource à une activité, un hébergement ou un équipement
 
@@ -25,7 +27,7 @@ Pour créer une ressource, suivez les étapes suivantes:
 
 #### Prix des ressources
 
-
+En créant une activité
 
 
 Il est possible d'ajouter des tarifs à vos ressources. Cette option vous permettra de charger des frais pour la location d'une ressource nécessaire à l'activité en question.
