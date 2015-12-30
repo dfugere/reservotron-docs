@@ -22,12 +22,12 @@ Pour créer une ressource, suivez les étapes suivantes:
 
 ####Assigner une ressource à une activité, un hébergement ou un équipement
 
+En créant une activité, un hébergement ou un équipement, vous pouvez l'assigner à une ou plusieurs ressources. Ces ressources peuvent être partagées entre différents articles de votre inventaire. Cela vous permettra de gérer la capacité de votre inventaire sans avoir des conflits.
 
 
 
 #### Prix des ressources
 
-En créant une activité, un hébergement ou un équipement, vous pouvez l'assigner à une ou plusieurs ressources. Ces ressources peuvent être partagées entre différents articles de votre inventaire. Cela vous permettra de gérer la capacité de votre inventaire sans avoir des conflits.
 
 
 Il est possible d'ajouter des tarifs à vos ressources. Cette option vous permettra de charger des frais pour la location d'une ressource nécessaire à l'activité en question.
