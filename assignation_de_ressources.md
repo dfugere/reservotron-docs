@@ -27,6 +27,13 @@ En créant une activité, un hébergement ou un équipement, vous pouvez l'assig
 Après avoir créé votre article, suivez les étapes suivantes pour assigner une ressource.
 1. Cliquez sur le bouton *Ajouter une ressource*
 2. Sélectionnez votre ressource dans la liste ou ajoutez une nouvelle si elle ne figure pas dans votre liste.
+3. Sélectionnez les options qui s'appliquent à l'usage de la ressource. 
+4. Sauvegardez
+
+Les options offertes vous permettront de 
+
+
+![](https://api.monosnap.com/rpc/file/download?id=FaFMok88gmO1nUz6mzYuJq8JQnzN04)
 
 #### Prix des ressources
 
