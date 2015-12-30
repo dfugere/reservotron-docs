@@ -9,7 +9,9 @@ Voici quelques exemples d'utilisation de ressources :
 
 
 ####Créer une ressource et établir sa capacité
-Pour créer une ressource, 
+Pour créer une ressource, suivez les étapes suivantes:
+1. Allez dans inventaire -> Ressources
+2. 
 
 ####Assigner une ressource à une activité, un hébergement ou un équipement
 
