@@ -8,6 +8,10 @@ Voici quelques exemples d'utilisation de ressources :
 * [Appliquer un inventaire de kayaks à une activité guidée et à une réservation de kayak à l'heure. ](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
 
 
+####Assigner une ressource à une activité, un hébergement ou un équipement
+
+
+
 
 #### Prix des ressources
 
