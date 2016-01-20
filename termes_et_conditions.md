@@ -21,6 +21,8 @@ Une fois créé, vous pourrez ajouter les termes désirés à un item de votre i
 
 ##Options de paiement dynamiques automatisés 
 
+
+
 Les paramètres de paiement sont généralement définis par défaut dans la configuration de votre compte.
 
 Vous pouvez cependant déterminer des options de paiement supplémentaires pour mieux répondre à vos besoins.
