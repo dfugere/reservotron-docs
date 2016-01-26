@@ -14,6 +14,9 @@ Les certificats et forfaits cadeaux permettent de diversifier l’offre de l’i
 Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce type de besoin, vous pouvez utiliser les activités pour configurer vos forfaits sur mesure. 
 
 ##Pour créer un forfait sur mesure :
+
+Tutoriel vidéo : https://youtu.be/T-GksZre1TQ
+
 ####Étape 1:
 1. Allez dans le menu *Inventaire* → *Activités*
 2. Cliquez sur *Ajouter activité*
