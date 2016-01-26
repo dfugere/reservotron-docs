@@ -10,6 +10,8 @@ Les termes de réservation vous permettront d'indiquer les renseignements import
 
 ######*Vous pouvez rajouter autant de termes que nécessaire*
 
+Tutoriel vidéo : https://www.youtube.com/watch?v=6_K3ziB61Es
+
 ![](https://api.monosnap.com/rpc/file/download?id=zPgPXDTEvuwtKsTgomcBIuYAT2mz7T)
 
 Une fois créé, vous pourrez ajouter les termes désirés à un item de votre inventaire.
@@ -42,6 +44,10 @@ Cette option vous sera utile si vous désirez spécifier des paiements automatis
 7. Sauvegardez en cliquant sur *Créer option de paiement*
 
 ######Exemple: Si vous mettez 60% dans *Pourcentage* et 14 dans la case *Nombre de jours*, alors 60% du total de la commande sera prélevé 14 jours précédent la date d'arrivée du client.
+
+
+Tutoriel vidéo : https://www.youtube.com/watch?v=6_K3ziB61Es
+
 
 
 ![](https://api.monosnap.com/rpc/file/download?id=zXBnMFmVhV9RFj60CJqHFWBpN4yGgD)
