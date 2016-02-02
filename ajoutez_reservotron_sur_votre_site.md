@@ -14,6 +14,8 @@ Vous pouvez ajouter Réservotron directement sur votre site web pour faciliter l
 
 ##Intégration
 
+Tutoriel d'intégration de Réservotron sur votre site : https://youtu.be/2Sq68Xy6xFc
+
 Si vous ne désirez pas rediriger vos clients vers la page de votre compte Réservotron, vous pouvez insérer un widget dans le code de votre site web. Celui-ci vous permettra d'ajouter le panier d'achat directement à votre site et d'effectuer les transactions sans avoir à le quitter.
 
 1. Accédez au code de votre site web
