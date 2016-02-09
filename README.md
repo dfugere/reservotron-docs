@@ -27,6 +27,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Comptabilité](comptabilite.md)
+   * [Traduction](traduction.md)
 
 * [Fonctionnalités](fonctionnalites.md)
    * [Détailler vos participants](detailler_vos_participants.md)
