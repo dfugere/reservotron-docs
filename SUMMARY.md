@@ -29,6 +29,7 @@
    * [Termes et conditions](termes_et_conditions.md)
    * [Comptabilité](comptabilite.md)
    * [Traduction](traduction.md)
+   * Assurance d'annulation
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
