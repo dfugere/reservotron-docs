@@ -27,7 +27,7 @@
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Termes et conditions](termes_et_conditions.md)
    * [Comptabilité](comptabilite.md)
-   * Traduction
+   * [Traduction](traduction.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
