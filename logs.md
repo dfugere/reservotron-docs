@@ -14,7 +14,7 @@ Ajoutez une assurance en cas d'annulation à votre inventaire grâce à cette fo
 
 Nous avons rajouter un menu supplémentaire qui vous permettra de créer plusieurs termes différents. Vous pourrez ensuite les assigner à travers les différents réservables de votre inventaire. Il est également possible d'assigner plusieurs termes à un même item.
 
-###[Options de paiement dynamique](termes_et_conditions.md)
+###[Options de paiement dynamique](options_de_paiement.md)
 Cette nouvelle fonctionnalité vous permettra de créer plusieurs options de paiement dynamiques et de les assigner à votre inventaire. 
 
 Ex: 30% du total lors de la confirmation de la commande; 30% dans les 30 jours précédents l'arrivée et 40% dans les 7 jours précédents avant l'arrivée.
