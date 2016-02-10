@@ -27,6 +27,7 @@
            * [desjardins](desjardins.md)
        * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Termes et conditions](termes_et_conditions.md)
+       * Options de paiement
    * [Comptabilité](comptabilite.md)
    * [Assurance d'annulation](assurance_dannulation.md)
    * [Traduction](traduction.md)
