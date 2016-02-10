@@ -46,4 +46,5 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Aide](aide.md)
 * [Logs](logs.md)
+* Certificats cadeaux
 
