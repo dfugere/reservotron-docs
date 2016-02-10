@@ -36,6 +36,6 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ
 ![](Screen Shot 2015-12-23 at 11.31.04 AM.png)
 
 
-
+[Pour apprendre à créer des forfaits cadeaux, cliquez ici.](forfaits_cadeaux.md)
 
 
