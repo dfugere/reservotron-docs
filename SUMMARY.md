@@ -39,7 +39,7 @@
    * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
-   * Forfaits Cadeaux
+   * [Forfaits Cadeaux](forfaits_cadeaux.md)
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
    * [Allotements](allotements.md)
