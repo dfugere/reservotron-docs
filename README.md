@@ -47,3 +47,4 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [Réinitialiser le mot de passe](reinitialiser_le_mot_de_passe.md)
 *  [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Aide](aide.md)
+* [Dernières Fonctionnalités](dernieres_fonctionnalites.md)
