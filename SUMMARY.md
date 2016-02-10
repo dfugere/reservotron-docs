@@ -37,7 +37,7 @@
    * [Prix par type de participant](prix_par_type_de_participant.md)
    * [Billets exclusifs](billets_exclusifs.md)
    * [Suggestions](suggestions.md)
-   * [Forfaits](forfaits_et_certificats_cadeaux.md)
+   * [Forfaits](forfaits.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Cartes interactives](cartes_interactives.md)
