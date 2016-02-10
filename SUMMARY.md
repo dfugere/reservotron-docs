@@ -30,6 +30,7 @@
    * [Comptabilité](comptabilite.md)
    * [Assurance d'annulation](assurance_dannulation.md)
    * [Traduction](traduction.md)
+* [Certificats cadeaux](certificats_cadeaux.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
@@ -46,5 +47,4 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Aide](aide.md)
 * [Logs](logs.md)
-* [Certificats cadeaux](certificats_cadeaux.md)
 
