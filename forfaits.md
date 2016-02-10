@@ -21,6 +21,9 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ
 3. Sauvegardez votre horaire
 
 ####Étape 3:
+
+Tutoriel vidéo : https://youtu.be/T-GksZre1TQ?t=184
+
 1. Cliquez sur le bouton *Modifier l'activité* et séectionnez *Modifier les éléments inclus* dans la liste déroulante.
 2. Cliquez sur le bouton *Add bundle item*
 3. Dans *Leasable type* sélectionnez la catégorie de votre inventaire que vous désirez inclure
