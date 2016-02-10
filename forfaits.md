@@ -33,7 +33,7 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ
 7. Sauvegardez le forfait.
 
 
-![](Screen Shot 2015-12-23 at 11.31.04 AM.png)
+![](Screen Shot 2016-02-10 at 2.18.38 PM.png)
 
 
 [Pour apprendre à créer des forfaits cadeaux, cliquez ici.](forfaits_cadeaux.md)
