@@ -1,4 +1,4 @@
-# Termes et options de paiement
+# Termes et conditions
 
 ##Termes de réservation
 Les termes de réservation vous permettront d'indiquer les renseignements importants dans vos commandes. Vos clients seront dans l'obligation de les accepter avant de pouvoir poursuivre la réservation et passer la commande.
