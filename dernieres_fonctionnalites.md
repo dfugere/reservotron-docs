@@ -22,4 +22,5 @@ Ex: 30% du total lors de la confirmation de la commande; 30% dans les 30 jours p
 ###[Rapports des ventes](comptabilite.md)
 Amélioration des rapports de ventes.
 
-###[Commande confirmée VS facturée](commandes.md)
+###[Factures et confirmations de commandes](commandes.md)
+Distinguez facilement les commandes confirmées des commandes 
