@@ -2,7 +2,7 @@
 
 #####10 février 2016
 
-###[Forfaits sur mesure](forfaits_et_certificats_cadeaux.md)
+###[Forfaits sur mesure](forfaits.md)
 Nous avons rajouté des options supplémentaires aux activités. Celles-ci vous permettront désormais de créer des forfaits sur mesure répondant parfaitement à vos besoins. 
 
 Vous aurez également accès à l'ensemble détaillé des items du forfait dans votre rapport des ventes.
