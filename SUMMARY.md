@@ -50,5 +50,4 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Aide](aide.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
-   * https://reservotron.gitbooks.io/reservotron/content/logs.html
 
