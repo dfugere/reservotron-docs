@@ -1,5 +1,10 @@
 # Dernières fonctionnalités 
 
+#####16 février 2016
+Revendez l'inventaire d'un fournisseur
+
+Intégrez Réservotron sur votre site web
+
 #####10 février 2016
 
 ###[Forfaits sur mesure](forfaits.md)
