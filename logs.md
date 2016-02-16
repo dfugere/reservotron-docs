@@ -3,7 +3,7 @@
 #####16 février 2016
 Revendez l'inventaire d'un fournisseur
 
-###[Rapports des commissions](rapport_des_commissions)
+###[Rapports des commissions](rapport_des_commissions.md)
 
 
 ###[Intégrez Réservotron sur votre site web](ajoutez_reservotron_sur_votre_site.md)
