@@ -3,7 +3,7 @@
 #####16 février 2016
 Revendez l'inventaire d'un fournisseur
 
-###Intégrez Réservotron sur votre site web
+###[Intégrez Réservotron sur votre site web](ajoutez_reservotron_sur_votre_site.md)
 
 Vous pouvez insérer un widget dans le code de votre site web. Cela vous permettra d'ajouter le panier d'achat directement sur votre site et effectuer les transactions sans avoir à rediriger vos client vers la page de votre compte Réservotron.
 
