@@ -11,4 +11,9 @@ Dans les deux situations, ce rapport vous permettra de :
 - Voir le total de vente
 - Voir le taux de commission attribué au produit en question
 - Voir le montant de la commission gagnée
+-
+
+Ces rapports peuvent être générés pour la durée que vous désirez. Il suffit de sélectionner la période désirée dans les dates de début et de fin et cliquer sur *Go* pour afficher le rapport.
+
+![](Screen Shot 2016-02-16 at 12.35.52 PM.png)
 
