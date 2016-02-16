@@ -2,7 +2,7 @@
 
 #####16 février 2016
 ###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
-Ajoutez l'inventaire d'un fournisseur sur votre compte Réservotron. Vous pourrez vendre l'inventaire à vos clients et gagner des commissions par ventes. 
+Ajoutez l'inventaire d'un fournisseur sur votre compte Réservotron. Vous pourrez vendre l'inventaire à vos clients et gagner des commissions par ventes. Vous pouvez également partager votre propre inventaire avec un partenaire.
 
 ###[Rapports des commissions](rapport_des_commissions.md)
 Si vous revendez l'inventaire d'un fournisseur ou que vous partagez votre inventaire avec un partenaire, vous pouvez accéder aux rapports des commissions. 
