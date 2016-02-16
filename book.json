@@ -2,7 +2,8 @@
     "plugins": [
         "blog",
         "canonical-link",
-        "catalog"
+        "catalog",
+        "anchor-navigation"
     ],
     "pluginsConfig": {}
 }
