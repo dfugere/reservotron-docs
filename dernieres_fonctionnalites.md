@@ -1,7 +1,7 @@
 # Dernières fonctionnalités 
 #####16 février 2016
 
-###Créez vos scénarios de courriels automatisés
+###[Créez vos scénarios de courriels automatisés](courriels_automatises.md)
 Créez les gabarits et configurez les scénarios d'envoi de vos courriels selon vos besoins spécifiques.
 
 ###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
