@@ -53,4 +53,5 @@
 * [Aide](aide.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
+* Courriels automatisés
 
