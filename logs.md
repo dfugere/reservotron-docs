@@ -8,7 +8,7 @@ Revendez l'inventaire d'un fournisseur
 Vous pouvez insérer un widget dans le code de votre site web. Cela vous permettra d'ajouter le panier d'achat directement sur votre site et effectuer les transactions sans avoir à rediriger vos client vers la page de votre compte Réservotron.
 
 
-
+--
 #####10 février 2016
 
 ###[Forfaits sur mesure](forfaits.md)
