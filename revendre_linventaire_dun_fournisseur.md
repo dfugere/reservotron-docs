@@ -29,3 +29,4 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
 
 ![](Screen Shot 2015-11-04 at 2.04.39 PM.png)
+
