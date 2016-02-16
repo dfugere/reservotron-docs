@@ -52,5 +52,5 @@
 * [Aide](aide.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
-* Fiches Clients
+* [Fiches Clients](fiches_clients.md)
 
