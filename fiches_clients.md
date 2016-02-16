@@ -6,6 +6,8 @@ Vous pouvez accéder aux renseignements de vos clients en suivant le cheminement
 
 À chaque fois qu'une réservation est créée, les renseignements du clients seront automatiquement enregistrés dans cette page.
 
+![](Screen Shot 2016-02-16 at 3.04.14 PM.png)
+
 ###Réutiliser la fiche d'un client pour une nouvelle réservation
 
 Vous pouvez réutiliser la fiche d'un client existant si vous désirez lui créer une nouvelle réservation facilement.
