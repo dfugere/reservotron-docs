@@ -15,6 +15,8 @@
 3. Sauvegardez le tout en cliquant sur le bouton *Créer Gabarit de courriel*
 4. Répétez ces étapes pour créer l'ensemble des gabarits dont vous avez besoin. 
 
+![](Screen Shot 2016-02-16 at 4.12.40 PM.png)
+
 ###Création des scénarios d'envoi
 Une fois vos gabarits créés, vous devez configurer vos scénarios d'envoi. Pour cela:
 
@@ -34,3 +36,5 @@ Une fois vos gabarits créés, vous devez configurer vos scénarios d'envoi. Pou
 8. Dans le menu *Gabarit*, sélectionnez celui que vous désirez appliquer à l'envoi. Vous retrouverez l'ensemble des gabarits créés plus tôt dans la liste déroulante.
 9. Validez le tout en cliquant sur *Créer plan de communication*
 10. Répétez ces étapes pour l'ensemble des scénarios dont vous avez besoin. 
+ 
+![](Screen Shot 2016-02-16 at 4.11.56 PM.png)
