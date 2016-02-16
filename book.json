@@ -1,8 +1,5 @@
 {
     "plugins": [
-        "blog",
-        "canonical-link",
-        "catalog",
         "anchor-navigation"
     ],
     "pluginsConfig": {}
