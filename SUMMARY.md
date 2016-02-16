@@ -50,8 +50,8 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
+* [Courriels automatisés](courriels_automatises.md)
 * [Aide](aide.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
-* [Courriels automatisés](courriels_automatises.md)
 
