@@ -49,9 +49,9 @@
    * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Rapport des commissions](rapport_des_commissions.md)
+* [Fiches clients](fiches_clients.md)
 * [Courriel automatisés](courriel_automatises.md)
 * [Aide](aide.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
-* [Fiches clients](fiches_clients.md)
 
