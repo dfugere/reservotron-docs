@@ -33,3 +33,4 @@ Une fois vos gabarits créés, vous devez configurer vos scénarios d'envoi. Pou
     Par exemple: si vous indiquez *On Confirmation* dans *Type* et *1* dans *Nombre de jours de décalage*, le courriel sera alors envoyé une journée après la confirmation de la réservation.
 8. Dans le menu *Gabarit*, sélectionnez celui que vous désirez appliquer à l'envoi. Vous retrouverez l'ensemble des gabarits créés plus tôt dans la liste déroulante.
 9. Validez le tout en cliquant sur *Créer plan de communication*
+10. Répétez ces étapes pour l'ensemble des scénarios dont vous avez besoin. 
