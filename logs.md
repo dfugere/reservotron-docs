@@ -1,7 +1,8 @@
 # Dernières fonctionnalités 
 
 #####16 février 2016
-Revendez l'inventaire d'un fournisseur
+###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
+
 
 ###[Rapports des commissions](rapport_des_commissions.md)
 Si vous revendez l'inventaire d'un fournisseur ou que vous partagez votre inventaire avec un partenaire, vous pouvez accéder aux rapports des commissions. 
