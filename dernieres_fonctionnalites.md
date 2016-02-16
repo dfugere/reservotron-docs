@@ -1,5 +1,21 @@
 # Dernières fonctionnalités 
+#####16 février 2016
 
+###Créez vos scénarios de courriels automatisés
+
+###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
+Ajoutez l'inventaire d'un fournisseur sur votre compte Réservotron. Vous pourrez vendre l'inventaire à vos clients et gagner des commissions par ventes. Vous pouvez également partager votre propre inventaire avec un partenaire.
+
+###[Rapports des commissions](rapport_des_commissions.md)
+Si vous revendez l'inventaire d'un fournisseur ou que vous partagez votre inventaire avec un partenaire, vous pouvez accéder aux rapports des commissions. 
+Ces rapports vous permettront de visualiser le détail des commissions que vous aurez gagné en tant qu'agence ou en tant que fournisseur. 
+
+###[Intégrez Réservotron sur votre site web](ajoutez_reservotron_sur_votre_site.md)
+
+Vous pouvez insérer un widget dans le code de votre site web. Cela vous permettra d'ajouter le panier d'achat directement sur votre site et effectuer les transactions sans avoir à rediriger vos client vers la page de votre compte Réservotron.
+
+
+--
 #####10 février 2016
 
 ###[Forfaits sur mesure](forfaits.md)
