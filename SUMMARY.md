@@ -53,4 +53,5 @@
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
 * [Fiches clients](fiches_clients.md)
+* Courriel automatisés
 
