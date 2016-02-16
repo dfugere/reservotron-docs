@@ -2,6 +2,7 @@
 #####16 février 2016
 
 ###Créez vos scénarios de courriels automatisés
+Créez les gabarits et configurez les scénarios d'envoi de vos courriels selon vos besoins spécifiques.
 
 ###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
 Ajoutez l'inventaire d'un fournisseur sur votre compte Réservotron. Vous pourrez vendre l'inventaire à vos clients et gagner des commissions par ventes. Vous pouvez également partager votre propre inventaire avec un partenaire.
