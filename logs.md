@@ -4,7 +4,8 @@
 Revendez l'inventaire d'un fournisseur
 
 ###[Rapports des commissions](rapport_des_commissions.md)
-
+Si vous revendez l'inventaire d'un fournisseur ou que vous partagez votre inventaire avec un partenaire, vous pouvez accéder aux rapports des commissions. 
+Ces rapports vous permettront de visualiser le détail des commissions que vous aurez gagné en tant qu'agence ou en tant que fournisseur. 
 
 ###[Intégrez Réservotron sur votre site web](ajoutez_reservotron_sur_votre_site.md)
 
