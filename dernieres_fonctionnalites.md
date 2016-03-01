@@ -1,5 +1,5 @@
 # Dernières fonctionnalités 
-#####16 février 2016
+#####1er mars 2016
 
 ###[Créez vos scénarios de courriels automatisés](courriels_automatises.md)
 Créez les gabarits et configurez les scénarios d'envoi de vos courriels selon vos besoins spécifiques.
@@ -15,9 +15,6 @@ Ces rapports vous permettront de visualiser le détail des commissions que vous 
 
 Vous pouvez insérer un widget dans le code de votre site web. Cela vous permettra d'ajouter le panier d'achat directement sur votre site et effectuer les transactions sans avoir à rediriger vos client vers la page de votre compte Réservotron.
 
-
---
-#####10 février 2016
 
 ###[Forfaits sur mesure](forfaits.md)
 Nous avons rajouté des options supplémentaires aux activités. Celles-ci vous permettront désormais de créer des forfaits sur mesure répondant parfaitement à vos besoins. 
