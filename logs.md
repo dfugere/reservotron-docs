@@ -1,10 +1,10 @@
 # Dernières fonctionnalités 
+#####1er mars 2016
 
-#####16 février 2016
+###[Créez vos scénarios de courriels automatisés](courriels_automatises.md)
+Créez les gabarits et configurez les scénarios d'envoi de vos courriels selon vos besoins spécifiques.
 
-###Créez vos scénarios de courriels automatisés
-
-###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun-fournisseur.md)
+###[Revendez l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 Ajoutez l'inventaire d'un fournisseur sur votre compte Réservotron. Vous pourrez vendre l'inventaire à vos clients et gagner des commissions par ventes. Vous pouvez également partager votre propre inventaire avec un partenaire.
 
 ###[Rapports des commissions](rapport_des_commissions.md)
@@ -15,9 +15,6 @@ Ces rapports vous permettront de visualiser le détail des commissions que vous 
 
 Vous pouvez insérer un widget dans le code de votre site web. Cela vous permettra d'ajouter le panier d'achat directement sur votre site et effectuer les transactions sans avoir à rediriger vos client vers la page de votre compte Réservotron.
 
-
---
-#####10 février 2016
 
 ###[Forfaits sur mesure](forfaits.md)
 Nous avons rajouté des options supplémentaires aux activités. Celles-ci vous permettront désormais de créer des forfaits sur mesure répondant parfaitement à vos besoins. 
