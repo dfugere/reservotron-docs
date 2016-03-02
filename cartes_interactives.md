@@ -17,17 +17,16 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 ![](Screen Shot 2016-03-02 at 11.52.44 AM.png)
 
 
-![](https://api.monosnap.com/rpc/file/download?id=QV7SlJXar3Zg54O9gE2WVZNhs66AFs)
 
 **Pour annoter la carte:**
 8. Ouvrez votre page Réservotron
-9. Cliquez sur *"Hébergement"* - (Votre carte paraitra en haut de la page)
+9. Cliquez sur la catégorie pour laquelle vous avez rajouté une carte - (Votre carte paraitra en haut de la page)
 10. Cliquez sur le lien *"Annoter la carte"*
 11. Cliquez sur l'emplacement désiré sur la carte
-12. Sélectionnez l'hébergement désiré dans la liste
+12. Sélectionnez le réservable désiré dans la liste
 13. Cliquez sur *"Sauvegarder"*
 
-La couleur que vous avez déterminez lors de la création de votre catégorie sera celle utilisée pour annoter la carte. 
+La couleur code que vous avez déterminez lors de la création de votre catégorie sera celle utilisée pour annoter la carte. 
 Si vous désirez la modifier, vous devrez effectuer les changements dans la configuration de la catégorie en question. 
 
 Pour plus d'informations sur la procédure à suivre pour assigner une couleur à une catégorie, consultez notre section ***[Catégories](cat.md)***
