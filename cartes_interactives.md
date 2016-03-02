@@ -21,9 +21,11 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 **Pour annoter la carte:**
 8. Ouvrez votre page Réservotron
 9. Cliquez sur la catégorie pour laquelle vous avez rajouté une carte - (Votre carte paraitra en haut de la page)
-10. Cliquez sur le lien *"Annoter la carte"*
-11. Cliquez sur l'emplacement désiré sur la carte
+10. Cliquez sur le lien *"Edit Map"* - Une seconde page contenant la carte s'ouvrira.
+11. Cliquez sur l'emplacement désiré directement sur la carte
+12. La liste des réservables de cette catégorie s'activera alors
 12. Sélectionnez le réservable désiré dans la liste
+13. Répetez ces étapes pour ajouter tous les marqueurs de la catégorie sur votre carte
 13. Cliquez sur *"Sauvegarder"*
 
 La couleur code que vous avez déterminez lors de la création de votre catégorie sera celle utilisée pour annoter la carte. 
