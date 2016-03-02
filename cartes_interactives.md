@@ -5,15 +5,17 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 À noter que l'utilisation d'une carte interactive requiert la création d'un hébergement de niveau *site*. 
 
 ***Pour créer une carte interactive:***
-1. Allez dans inventaire 
-2. Sélectionnez *"Hébergement"*
-3. Sélectionnez *"Site"* dans le filtre niveau (voir image ci-dessous)
-4. Cliquez sur le bouton *"Filtrer"*
-
- ![](https://api.monosnap.com/image/download?id=QXXC1SLV6nJZrLU3ZGysP7lwg1EyYP)
-5. Cliquez sur le lien *"Modifier"* de l'hébergement affiché
-6. Choisissez une image dans la case *"Carte"*
+1. Allez dans *Menu* -> "*Autres*" 
+2. Sélectionnez *"Catégories"*
+3. Sélectionnez la catégorie pour laquelle vous désirez rajouter une carte
+4. Cliquez sur *Modifier*
+5. Repérez la section *Carte*
+6. Choisissez une image dans la case *"Image"*
 7. Sélectionnez *"oui"* dans la case "Publiée"
+8. Sauvegardez vos changements
+
+![](Screen Shot 2016-03-02 at 11.52.44 AM.png)
+
 
 ![](https://api.monosnap.com/rpc/file/download?id=QV7SlJXar3Zg54O9gE2WVZNhs66AFs)
 
