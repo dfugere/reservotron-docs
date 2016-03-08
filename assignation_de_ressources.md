@@ -30,11 +30,14 @@ Après avoir créé votre article, suivez les étapes suivantes pour assigner un
 3. Sélectionnez les options qui s'appliquent à l'usage de la ressource. 
 4. Sauvegardez
 
+Si vous désirez que le réservable utilise plus d'une ressource, vous pourrez les rajouter dans l'ordre de priorité.
+Par exemple: si vous voulez utiliser toute la capacité de vos kayaks double avant de réserver les kayaks simple, vous devez les insérer dans l'ordre (voir image ci-dessous).
+
 Les options offertes vous permettront de bien ciber les besoins spécifiques de chaque activité. Par exemple, vous pouvez choisir de bloquer une instance de votre ressource, ou de l'utiliser au complet selon les besoins de votre configuration.
 
 Vous pouvez aussi ajouter des exceptions.
 
-![](https://api.monosnap.com/rpc/file/download?id=FaFMok88gmO1nUz6mzYuJq8JQnzN04)
+![](Screen Shot 2016-03-08 at 1.49.56 PM.png)
 
 #### Prix des ressources
 
