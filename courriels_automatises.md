@@ -8,9 +8,9 @@
 1. Cliquez sur le bouton *Ajouter Gabarit de Courriel*
 2. Ajoutez les informations de votre gabarit dont:
 
- * **le nom**
- * **le sujet**
- * **le contenu de votre courriel**
+ * **LE NOM**
+ * **LE SUJET**
+ * **LE CONTENU DE VOTRE COURRIEL**
 
 3. Sauvegardez le tout en cliquant sur le bouton *Créer Gabarit de courriel*
 4. Répétez ces étapes pour créer l'ensemble des gabarits dont vous avez besoin. 

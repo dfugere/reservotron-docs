@@ -4,7 +4,7 @@ Les cartes interactives vous permettront d'afficher une carte dans votre section
 
 À noter que l'utilisation d'une carte interactive requiert la création d'un hébergement de niveau *site*. 
 
-***Pour créer une carte interactive:***
+**Pour créer une carte interactive:**
 1. Allez dans *Menu* -> "*Autres*" 
 2. Sélectionnez *"Catégories"*
 3. Sélectionnez la catégorie pour laquelle vous désirez rajouter une carte

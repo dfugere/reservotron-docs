@@ -33,3 +33,6 @@ Si vous voulez qu'une catégorie apparaisse en premier, vous devrez lui attribue
 Numérotez ensuite le reste de vos catégories de sorte à obtenir l'ordre désiré. 
 
 ![](355feb9a-6faf-4733-a98e-67521216b31e copy.png)
+
+
+#####Vous pouvez également assigner des cartes interactives à chacune de vos catégories. Pour savoir comment configurer les cartes interactives, [cliquez ici](cartes_interactives.md).
