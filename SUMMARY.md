@@ -23,7 +23,6 @@
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
 * [Gestion des réservations](gestion_des_reservations.md)
-   * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
    * [Disponibilités](disponibilites.md)
    * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
    * [Tableau de bord](tableau_de_bord.md)
@@ -46,6 +45,7 @@
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
 * [RÉSERVATIONS](reservations.md)
+   * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
    * [Fiches clients](fiches_clients.md)
    * test
 * [Rapport des commissions](rapport_des_commissions.md)
