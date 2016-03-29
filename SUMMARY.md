@@ -3,8 +3,8 @@
 * [FAQ](faq.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
-   * Paiement en ligne
 * [Configuration](configuration_du_compte.md)
+   * Paiement en ligne
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
        * [Réinitialiser le mot de passe](reinitialiser_mot_de_passe.md)
