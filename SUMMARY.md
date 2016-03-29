@@ -25,7 +25,6 @@
    * [Inventaire](inventaire.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
    * [taxe-touristique](taxe-touristique.md)
-* [Gestion de l'inventaire](gestion_inventaire.md)
 * [Fonctionnalités](fonctionnalites.md)
    * [Détaillez vos participants](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
