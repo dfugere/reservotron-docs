@@ -23,6 +23,7 @@
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
    * [Inventaire](inventaire.md)
+   * [Allotements](allotements.md)
    * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
@@ -33,7 +34,6 @@
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
    * [taxe-touristique](taxe-touristique.md)
 * [Fonctionnalités](fonctionnalites.md)
-   * [Allotements](allotements.md)
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
