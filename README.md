@@ -29,13 +29,13 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [AJOUTER RÉSERVOTRON SUR VOTRE SITE](ajoutez_reservotron_sur_votre_site.md)
 
 **INVENTAIRE**
-* INVENTAIRE
-* ALLOTEMENTS
-* SUGGESTIONS
-* FORFAITS SUR MESURE
-* FORFAITS CADEAUX
-* CERTIFICATS CADEAUX
-* COUPONS
+* [INVENTAIRE](inventaire.md)
+* [ALLOTEMENTS](allotements.md)
+* [SUGGESTIONS](suggestions.md)
+* [FORFAITS SUR MESURE](forfaits.md)
+* [FORFAITS CADEAUX](forfaits_cadeaux.md)
+* [CERTIFICATS CADEAUX](certificats_cadeaux.md)
+* [COUPONS](coupons.md)
 * PARTICIPANTS DÉTAILLÉS
 * GRILLE TARIFAIRE
 * TAXE TOURISTIQUE
