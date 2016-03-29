@@ -14,6 +14,7 @@
    * [Courriels automatisés](courriels_automatises.md)
    * [Catégories](cat.md)
    * [Cartes interactives](cartes_interactives.md)
+   * [Saisons](saisons.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
