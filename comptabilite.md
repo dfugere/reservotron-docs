@@ -5,10 +5,10 @@ Réservotron donne accès à une série de rapports de comptabilité qui vous pe
 
 Pour savoir quels renseignements sont accessibles dans ces rapports et comment les utiliser :
 
-* [Rapport de vente. [En savoir plus](rapport_des_ventes.md) (rapport_des_ventes.md)
-* Rapport global. [En savoir plus](rapport_global.md)
-* Rapport des commissions. [En savoir plus](rapport_des_commissions.md)
-* Rapport comptable. [En savoir plus](rapport_comptable.md)
+* [RAPPORT DES COMMISSIONS](rapport_des_commissions.md)
+* [RAPPORT DES VENTES](rapports_des_ventes.md)
+* [RAPPORT GLOBAL](rapport_global.md)
+* [RAPPORT COMPTABLE](rapport_comptable.md)
 
 
 
