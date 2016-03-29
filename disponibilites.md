@@ -17,11 +17,11 @@ Les réservations des divers s'afficheront sur 14 jours. Vous pouvez voir les di
 **DISPONIBILITÉ DES RESSOURCES**
 Allez dans le menu **RAPPORTS** - **DISPONIBILITÉ DES RESSOURCES**
 
-Les réservations des ressources s'afficheront pour toutes les plages horaires de la date sélectionnée (affichage par jour uniquement). Vous pouvez voir les disponibilités précédentes ou suivantes en utilisant les flèches à côté de votre date. Les journées réservées (et donc non disponibles) seront affichées en rouge. En cliquant sur la journée, vous pourrez avoir accès au détail de la commande respective.
+Les réservations des ressources s'afficheront pour toutes les plages horaires de la date sélectionnée (affichage par jour uniquement). Vous pouvez voir les disponibilités précédentes ou suivantes en utilisant les flèches à côté de votre date. L'ensemble de vos ressources s'afficheront dans un tableau détaillé montrant la réservation des ressources sur les heures de la journée. Vous pouvez cliquer sur le nombre s'affichant à côté d'une heure pour avoir accès rapidement aux commandes effectuées pour ces équipements. Lorsque la capacité maximale d'une ressource est atteinte, la case devient rouge. 
 
+Vous pouvez également y accéder en cliquant sur le bouton “Disponibilité” à partir du tableau de bord.
 
 L’état des réservations des différents groupes sera affiché en fonction de la taille attribuée à ces derniers dans le panneau *Disponibilité*. 
 
 
 
-Vous pouvez également y accéder en cliquant sur le bouton “Disponibilité” à partir du tableau de bord.
