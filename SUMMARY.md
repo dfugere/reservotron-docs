@@ -40,7 +40,6 @@
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
-   * [Bloquer les réservations pour le lendemain](bloquer_les_reservations_pour_le_lendemain.md)
    * [Filtres et exportation](filtres_et_exportation.md)
    * [Factures et commandes](commandes.md)
    * [Disponibilités](disponibilites.md)
