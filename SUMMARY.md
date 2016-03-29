@@ -24,8 +24,8 @@
 * INVENTAIRE
    * [Inventaire](inventaire.md)
        * [Allotements](allotements.md)
+       * [Suggestions](suggestions.md)
        * K
-   * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
