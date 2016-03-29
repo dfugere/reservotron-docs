@@ -14,12 +14,13 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 **[CONFIGURATION DU COMPTE](configuration_du_compte.md)**
 * [COMPTE](configuration_administrative.md)
 * [UTILISATEURS](gestion_des_utilisateurs.md)
-* TERMES ET CONDITIONS
-* OPTIONS DE PAIEMENT
-* PAIEMENT EN LIGNE
-* ASSURANCE D'ANNULATION
-* COURRIELS AUTOMATISÉS
-* CATÉGORIES
+* [TERMES ET CONDITIONS](termes_et_conditions.md)
+* [OPTIONS DE PAIEMENT](options_de_paiement.md)
+[* PAIEMENT EN LIGNE](paiement_en_ligne.md)
+[* ASSURANCE D'ANNULATION
+](assurance_dannulation.md)
+* [COURRIELS AUTOMATISÉS](courriels_automatises.md)
+* [CATÉGORIES](categories.md)
 * CARTES INTERACTIVES
 * SAISONS
 * RESSOURCES
