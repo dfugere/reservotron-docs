@@ -20,13 +20,13 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 [* ASSURANCE D'ANNULATION
 ](assurance_dannulation.md)
 * [COURRIELS AUTOMATISÉS](courriels_automatises.md)
-* [CATÉGORIES](categories.md)
-* CARTES INTERACTIVES
-* SAISONS
-* RESSOURCES
-* HEURES D'OUVERTURES
-* FORMULAIRES PERSONNALISÉS
-* AJOUTER RÉSERVOTRON SUR VOTRE SITE
+* [CATÉGORIES](cat.md)
+* [CARTES INTERACTIVES](cartes_interactives.md)
+* [SAISONS](saisons.md)
+* [RESSOURCES](assignation_de_ressources.md)
+* [HEURES D'OUVERTURES](heures_douverture.md)
+* [FORMULAIRES PERSONNALISÉS](formulaires_personnalises.md)
+* [AJOUTER RÉSERVOTRON SUR VOTRE SITE](ajoutez_reservotron_sur_votre_site.md)
 
 **INVENTAIRE**
 * INVENTAIRE
