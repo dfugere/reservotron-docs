@@ -21,7 +21,7 @@
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-* [Inventaire](inventaire.md)
+* [INVENTAIRE](inventaire.md)
    * [Allotements](allotements.md)
    * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
