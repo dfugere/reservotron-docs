@@ -26,7 +26,6 @@
    * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
-   * [Billets exclusifs](billets_exclusifs.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
