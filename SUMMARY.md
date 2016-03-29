@@ -4,7 +4,7 @@
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
 * [Configuration](configuration_du_compte.md)
-   * Paiement en ligne
+   * [Paiement en ligne](paiement_en_ligne.md)
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
        * [Réinitialiser le mot de passe](reinitialiser_mot_de_passe.md)
