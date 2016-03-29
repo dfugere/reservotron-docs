@@ -3,6 +3,7 @@
 * [FAQ](faq.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
+   * RÉSERVATIONS
 * [CONFIGURATION](configuration_du_compte.md)
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
