@@ -2,6 +2,8 @@
 
 ##Options de paiement dynamiques automatisés 
 
+POURQUOI UTILISER LES OPTIONS DE PAIEMENTS ? Pour demander des paiements segmentés sur plusieurs étapes. 
+
 
 
 Les paramètres de paiement sont généralement définis par défaut dans la configuration de votre compte.
@@ -25,7 +27,7 @@ Cette option vous sera utile si vous désirez spécifier des paiements automatis
 ######Exemple: Si vous mettez 60% dans *Pourcentage* et 14 dans la case *Nombre de jours*, alors 60% du total de la commande sera prélevé 14 jours précédent la date d'arrivée du client.
 
 
-Tutoriel vidéo : https://www.youtube.com/watch?v=6_K3ziB61Es
+Tutoriel vidéo : [https://www.youtube.com/watch?v=6_K3ziB61Es](https://www.youtube.com/watch?v=6_K3ziB61Es)
 
 
 
