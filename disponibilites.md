@@ -9,6 +9,7 @@ Allez dans le menu **“RAPPORTS”** - **“DISPONIBILITÉ HÉBERGEMENTS”**
 
 Les réservations des hébergements s'afficheront sur 14 jours. Vous pouvez voir les disponibilités précédentes ou suivantes en utilisant les flèches à côté de votre date. Les journées réservées (et donc non disponibles) seront affichées en rouge. En cliquant sur la journée, vous pourrez avoir accès au détail de la commande respective. Pour faciliter le travail, vous pouvez cliquer sur une journée non réservée pour être redirigés vers l'interface publique de l'hébergement et procéder à la réservation de la journée sélectionnée.
 
+
 **DISPONIBILITÉ DES DIVERS**
 Allez dans le menu **RAPPORTS** - **DISPONIBILITÉ DIVERS**
 
