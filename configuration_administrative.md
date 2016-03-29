@@ -25,6 +25,7 @@ Pour configurer votre compte:
 
 
 **Apparence**
+La configuration visuelle vous permettra de personnaliser votre compte Réservotron pour que ce dernier soit identique à l’image de marque de votre entreprise ou de votre site web.
 1. **LOGO** : Utilisez le bouton *"Choose File"* pour sélectionner votre logo et l'ajouter à votre compte
 2. **ALIGNEMENT DU LOGO** : L'option *Alignement* vous permettra de spécifier l'emplacement du logo. Il suffit de choisir dans la liste (Centre; Gauche; ou Droite) pour lui donner la position désirée.
 3. **IMAGE D'ARRIÈRE PLAN**: Vous pouvez ajouter une image de fond à votre compte à l'aide de cette option. Utilisez le bouton *Choose File* pour sélectionner l'image désirée - Laissez vide si vous ne désirez pas utiliser d'image d'arrière plan.
@@ -32,12 +33,13 @@ Pour configurer votre compte:
 
 
 **Paiement en ligne**
-1. **SURCHARGE SUPPLÉMENTAIRE EN POURCENTAGE**
-2. **SURCHARGE SUPPLÉMENTAIRE MAXIMALE  **
+1. **SURCHARGE SUPPLÉMENTAIRE EN POURCENTAGE** : Indiquez le montant supplémentaire (en pourcentage) que vous désirez charger aux transactions. Laissez la case vide si vous ne désirez pas charger de frais supplémentaires. (Cette option vous permet de charger les frais de transaction directement à vos clients)
+2. **SURCHARGE SUPPLÉMENTAIRE MAXIMALE  ** : Indiquez le montant maximal pour la surcharge. Par exemple: surcharge de 5% jusqu'à un montant maximal de 3$. 
 
 **Hébergements**
-1. **HEURE D'ARRIVÉE** :
-2. **HEURE DE DÉPART** :
+La réservation d'un hébergement, requiert une heure d'arrivée et de départ afin de pouvoir gérer la disponibilité de ce dernier.
+1. **HEURE D'ARRIVÉE** : Spécifier l'heure d'arrivée par défaut. Exemple: 13h
+2. **HEURE DE DÉPART** : Spécifier l'heure de départ par défaut. Exemple: 8h 
 
 **Codes GL**
 1. **ENCAISSE**
@@ -50,7 +52,7 @@ Pour configurer votre compte:
 8. **TVQ**
 
 **Médias Sociaux**
-Ajoutez les renseignements de contact et de vos médias sociaux sur votre compte. Vous pouvez publier les informations suivantes : Courriel publique; Site web; Compte Facebook; Compte TWitter; Compte Pinterest; Compte Youtube et Compte Vimeo. Les case que vous laisserez vides ne seront pas affichées. 
+Ajoutez les renseignements de contact et de vos médias sociaux sur votre compte afin d’optimiser vos communications et d’augmenter votre présence et vos audiences sur les communautés en ligne (*facultatif*). Vous pouvez publier les informations suivantes : Courriel publique; Site web; Compte Facebook; Compte TWitter; Compte Pinterest; Compte Youtube et Compte Vimeo. Les case que vous laisserez vides ne seront pas affichées. 
 Les liens seront affichés dans le pied de page de votre compte. 
 
 
@@ -58,10 +60,3 @@ Les liens seront affichés dans le pied de page de votre compte.
 1. **GOOGLE CONVERSION**
 2. **GOOGLE CONVERSION LABEL**
 
-
-
-1. Ajoutez les détails et spécifications propres aux dépôts et paiements en ligne que vous demandez lors de réservation en ligne
-
-1. Ajoutez la configuration visuelle de votre compte en ajoutant votre logo et une image (celle-ci peut-être une image de votre entreprise ou d’une activité offerte etc.). La configuration visuelle vous permettra de personnaliser votre compte Réservotron pour que ce dernier soit identique à l’image de marque de votre entreprise ou de votre site web.
-
-1. Ajoutez les liens de vos comptes sur les différents réseaux sociaux afin d’optimiser vos communications et d’augmenter votre présence et vos audiences sur les communautés en ligne (*facultatif*)
