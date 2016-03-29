@@ -11,14 +11,13 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 
 
 
-**[CONFIGURATION DU COMPTE](configuration_du_compte.md)**
+**CONFIGURATION DU COMPTE**
 * [COMPTE](configuration_administrative.md)
 * [UTILISATEURS](gestion_des_utilisateurs.md)
 * [TERMES ET CONDITIONS](termes_et_conditions.md)
 * [OPTIONS DE PAIEMENT](options_de_paiement.md)
 [* PAIEMENT EN LIGNE](paiement_en_ligne.md)
-[* ASSURANCE D'ANNULATION
-](assurance_dannulation.md)
+* [ASSURANCE D'ANNULATION](assurance_dannulation.md)
 * [COURRIELS AUTOMATISÉS](courriels_automatises.md)
 * [CATÉGORIES](cat.md)
 * [CARTES INTERACTIVES](cartes_interactives.md)
@@ -52,10 +51,10 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 **[PARTAGE ET REVENTE DE L'INVENTAIRE D'UN FOURNISSEUR](revendre_linventaire_dun_fournisseur.md)**
 
 **COMPTABILITÉ**
-* RAPPORT DES COMMISSIONS
-* RAPPORT DES VENTES
-* RAPPORT GLOBAL
-* RAPPORT COMPTABLE
+* [RAPPORT DES COMMISSIONS](rapport_des_commissions.md)
+* [RAPPORT DES VENTES](rapports_des_ventes.md)
+* [RAPPORT GLOBAL](rapport_global.md)
+* [RAPPORT COMPTABLE](rapport_comptable.md)
 
 [**AIDE**](aide.md)
 
