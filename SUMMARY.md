@@ -38,7 +38,7 @@
    * [Disponibilités](disponibilites.md)
    * [Filtres et exportation](filtres_et_exportation.md)
    * [Factures et commandes](commandes.md)
-* [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
+* [PARTAGE ET REVENTE DE L'INVENTAIRE D'UN FOURNISSEUR](revendre_linventaire_dun_fournisseur.md)
 * [COMPTABILITÉ](comptabilite.md)
    * [Rapport des commissions](rapport_des_commissions.md)
    * [Rapport des ventes](rapport_des_ventes.md)
