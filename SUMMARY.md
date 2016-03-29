@@ -23,6 +23,7 @@
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
    * [Inventaire](inventaire.md)
+       * K
    * [Allotements](allotements.md)
    * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
