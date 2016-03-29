@@ -1,18 +1,24 @@
-# Configuration administrative
+# Compte
+
+La configuration administrative du compte vous permet d'ajouter tous les renseignements généraux relatifs à votre entreprise. 
 
 Pour configurer votre compte:
 
-1. Allez dans “Autre”
+1. Allez dans le menu “Autre”
 
-1. Sélectionnez “Compte”
+1. Cliquez sur “Compte”
 
-1. Ajoutez le nom de votre entreprise dans le champ “Nom”
 
-1. Ajoutez l’adresse de votre entreprise dans le champ “Adresse pour facturation”. Cette information sera visible dans les factures envoyées aux clients suite à une réservation ou transaction en ligne. Il vous est possible d’ajouter une adresse courriel ou un numéro de téléphone si désiré
+**Paramètres généraux:**
+1. **NOM D'ENTREPRISE** : Ajoutez le nom de votre entreprise dans le champ “Nom” - Ce dernier apparaîtra sur les factures envoyées aux clients lors de réservations.
+2. **NOM** : Ce champ vous permettra de spécifier un nom différent pour le lien URL de votre compte. Par exemple, si l'entreprise s'appelle *Réservotron* et qu'on rentre *"R"* dans le champs *Nom*, le lien du compte sera reservotron.com/r
+3. **ADRESSE POUR FACTURATION** : Ajouter l'adresse de votre entreprise. Celle-ci sera visible sur les factures envoyées aux clients. Vous pouvez y ajouter une adresse courriel ou un numéro de téléphone si désiré.
+4. **INFORMATIONS POUR LA FACTURATION** : Cette case vous permet d'ajouter des renseignements supplémentaires que vous désirez faire parvenir à vos client sur la facture. Par exemple, vous pouvez l'utiliser pour ajouter vos numéros de TPS - TVQ.
+5. **TERMES ET CONDITIONS** : Indiquez les termes et conditions globaux pour les réservations en ligne. Les clients seront dans l'obligation de les accepter en effectuant une transaction en ligne. Cette option est réservées aux termes et conditions s'appliquant à votre compte en général. Si vous désirez rajouter des termes spécifiques à certains items, vous pouvez les ajouter à l'aide du menu **Termes**. [En savoir plus](termes_et_conditions)
+6. **CHAMPS À AJOUTER À LA CONFIRMATION DE COMMANDE** : Cette option vous permettra de rajouter un ou plusieurs champs supplémentaires à la confirmation de votre commande. 
 
-1. Indiquez vos termes et conditions de réservation en ligne dans le champs “**[Termes et conditions](termes_et_conditions.md)**”. Le client sera dans l’obligation d’accepter vos termes en confirmant une transaction
 
-1. Ajoutez les numéros de taxes propres à votre entreprise
+
 
 1. Ajoutez les détails et spécifications propres aux dépôts et paiements en ligne que vous demandez lors de réservation en ligne
 
