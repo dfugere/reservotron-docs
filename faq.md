@@ -12,3 +12,6 @@ R: Oui. Il suffit de spécifier tous les participants désirés lors de la créa
 
 Q:**Mon activité comporte des risques. Puis-je obliger mes clients à les accepter avant de procéder à la réservation?**
 R: Oui. Vous pouvez utiliser les formulaires personnalisés pour demander l'information désirée. Vous pouvez également rajouter des termes et conditions spécifiques à l'activité en question. Ceux-ci seront affichés avec les termes et conditions généraux du compte lors de la réservation. [En savoir plus](formulaires_personnalises.md)
+
+Q:**Mon inventaire est limité. Comment puis-je gérer sa capacité?**
+R: 
