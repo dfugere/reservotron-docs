@@ -14,4 +14,4 @@ Q:**Mon activité comporte des risques. Puis-je obliger mes clients à les accep
 R: Oui. Vous pouvez utiliser les formulaires personnalisés pour demander l'information désirée. Vous pouvez également rajouter des termes et conditions spécifiques à l'activité en question. Ceux-ci seront affichés avec les termes et conditions généraux du compte lors de la réservation. [En savoir plus](formulaires_personnalises.md)
 
 Q:**Mon inventaire est limité. Comment puis-je gérer sa capacité?**
-R: Vous pouvez facilement gérer votre inventaire à l'aide des ressources. Ces dernières vous permettont de spécifier la quantité et la capacité de votre inventaire. En assignant des ressources à vos items réservables, vous vous assurez de ne jamais excéder la capacité maximale de votre inventaire. En savoir plus
+R: Vous pouvez facilement gérer votre inventaire à l'aide des ressources. Ces dernières vous permettront de spécifier la quantité et la capacité de votre inventaire. En assignant des ressources à vos items réservables, vous vous assurez de ne jamais excéder la capacité maximale de votre inventaire. [En savoir plus](assignation_de_ressources.md)
