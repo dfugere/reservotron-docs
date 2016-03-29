@@ -23,7 +23,6 @@
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
 * [Gestion des réservations](gestion_des_reservations.md)
-   * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
 * [Gestion de l'inventaire](gestion_inventaire.md)
    * [Inventaire](inventaire.md)
        * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
@@ -42,6 +41,7 @@
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
    * [Bloquer les réservations pour le lendemain](bloquer_les_reservations_pour_le_lendemain.md)
+   * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
    * [Filtres et exportation](filtres_et_exportation.md)
    * [Factures et commandes](commandes.md)
    * [Disponibilités](disponibilites.md)
