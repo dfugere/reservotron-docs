@@ -19,7 +19,8 @@ Pour configurer votre compte:
 7. **DATE DE FERMETURE DES RÉSERVATIONS** : Ajoutez (si désiré) la date après laquelle il ne sera plus possible aux clients de réserver. Laissez cette case vide si l'option ne s'applique pas à votre cas. 
 8. **NOMBRE DE SEMAINES AFFICHÉES DANS LA RÉSERVATION EN LIGNE** : Combien de semaines désirez-vous afficher dans l'interface publique de la réservation? Vous pouvez choisir une semaine pour donner une vision hebdomadaire ou plus pour un vue plus globale. 
 9. **NOMBRE DE JOURS POUR LE RAPPEL D'UN DEVIS** : Spécifier le nombre de jours avant la première réservation pour l'envoie d'un rappel d'un devis. 
-10. **HEURE DE FERMETURE DES RÉSERVATIONS** : 
+10. **HEURE DE FERMETURE DES RÉSERVATIONS** : Il vous est possible de modifier l'heure de fermeture des réservations pour le lendemain en spécifiant une heure de fermeture des réservations dans les configurations de votre compte accessible via autres > compte.
+NB: Si vous indiquez une heure de fermeture des réservations. Le publique ne pourra réserver en ligne pour la journée en cours.
 11. **TEMPS DE PRÉPARATION D'UNE ACTIVITÉ** : 
 12. **ENVOIE DE RAPPEL D'UNE ACTIVITÉ** :
 
