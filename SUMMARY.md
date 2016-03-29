@@ -18,6 +18,7 @@
    * [Ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
        * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
+   * [Heures d'ouverture](heures_douverture.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
