@@ -45,7 +45,7 @@
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
-* RÉSERVATIONS
+* [RÉSERVATIONS](reservations.md)
 * [Fiches clients](fiches_clients.md)
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
