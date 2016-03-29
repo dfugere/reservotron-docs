@@ -1,11 +1,10 @@
 # RÉSERVATIONS
 
-* Création et modifications à l'interne
-* Fiches clients
-* Disponibilités
-* Tableau de bord
-* Bloquer les réservations 
-* Filtres et exports
-* Factures et commandes
+* [TABLEAU DE BORD](tableau_de_bord.md)
+* [CRÉATION ET MODIFICATIONS À L'INTERNE](creation_et_modification_a_linterne.md)
+* [FICHES CLIENTS](fiches_clients.md)
+* [DISPONIBILITÉS](disponibilites.md)
+* [FILTRES ET EXPORTATIONS](filtres_et_exportation.md)
+* [FACTURES ET COMMANDES](commandes.md)
 
 
