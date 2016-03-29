@@ -1,7 +1,6 @@
 # Summary
 
 * [FAQ](faq.md)
-* [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
 * [CONFIGURATION](configuration_du_compte.md)
    * [Compte](configuration_administrative.md)
@@ -47,5 +46,6 @@
    * [Rapport comptable](rapport_comptable.md)
 * [TRADUCTION](traduction.md)
 * [Aide](aide.md)
+* [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [logs](logs.md)
 
