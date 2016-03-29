@@ -10,3 +10,5 @@
 
 
 Certains forfaits peuvent nécessiter une configuration plus complexe. Pour ce type de besoin, vous pouvez utiliser les activités pour configurer vos forfaits sur mesure. 
+
+[Cliquez ici pour savoir comment configurer des forfaits sur mesure](forfaits.md).
