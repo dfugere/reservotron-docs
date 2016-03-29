@@ -46,7 +46,6 @@
    * [Factures et commandes](commandes.md)
    * [Disponibilités](disponibilites.md)
    * [Fiches clients](fiches_clients.md)
-   * test
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [COMPTABILITÉ](comptabilite.md)
