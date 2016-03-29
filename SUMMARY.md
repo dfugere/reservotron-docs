@@ -21,7 +21,6 @@
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-* [Traduction](traduction.md)
 * [Comptabilité](comptabilite.md)
 * [Gestion des réservations](gestion_des_reservations.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
@@ -49,6 +48,7 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
+* [Traduction](traduction.md)
 * [Aide](aide.md)
 * [logs](logs.md)
 
