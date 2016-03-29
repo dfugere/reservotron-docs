@@ -24,7 +24,6 @@
 * INVENTAIRE
 * [Gestion des réservations](gestion_des_reservations.md)
    * [Disponibilités des Hébergements](disponibilites_des_hebergements.md)
-   * [Tableau de bord](tableau_de_bord.md)
    * [Bloquer les réservations pour le lendemain](bloquer_les_reservations_pour_le_lendemain.md)
    * [Filtres et exportation](filtres_et_exportation.md)
    * [Factures et commandes](commandes.md)
@@ -44,6 +43,7 @@
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
 * [RÉSERVATIONS](reservations.md)
+   * [Tableau de bord](tableau_de_bord.md)
    * [Disponibilités](disponibilites.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
    * [Fiches clients](fiches_clients.md)
