@@ -44,7 +44,7 @@
    * [Rapport des ventes](rapport_des_ventes.md)
    * [Rapport global](rapport_global.md)
    * [Rapport comptable](rapport_comptable.md)
-* [Dernières fonctionnalités](dernieres_fonctionnalites.md)
+* [DERNIÈRES FONCTIONNALITÉS](dernieres_fonctionnalites.md)
 * [TRADUCTION](traduction.md)
 * [Aide](aide.md)
 * [logs](logs.md)
