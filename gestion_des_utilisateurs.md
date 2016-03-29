@@ -32,3 +32,4 @@ Si vous désirez modifier les informations ou le rôle d’un utilisateur, ou en
 
 Les modifications que vous ferez seront effectives immédiatement. 
 
+**SI VOUS AVEZ OUBLIÉ VOTRE MOT DE PASSE OU NE POUVEZ ACCÉDER À VOTRE COMPTE, VOUS POUVEZ RÉINITIALISER VOTRE ACCÈS. [EN SAVOIR PLUS](reinitialiser_mot_de_passe)**
