@@ -11,6 +11,7 @@
    * [Options de paiement](options_de_paiement.md)
    * [Paiement en ligne](paiement_en_ligne.md)
    * [Assurance d'annulation](assurance_dannulation.md)
+   * [Courriels automatisés](courriels_automatises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
@@ -48,7 +49,6 @@
 * [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
-* [Courriels automatisés](courriels_automatises.md)
 * [Aide](aide.md)
 * [logs](logs.md)
 
