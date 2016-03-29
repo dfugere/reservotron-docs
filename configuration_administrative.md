@@ -15,7 +15,9 @@ Pour configurer votre compte:
 3. **ADRESSE POUR FACTURATION** : Ajouter l'adresse de votre entreprise. Celle-ci sera visible sur les factures envoyées aux clients. Vous pouvez y ajouter une adresse courriel ou un numéro de téléphone si désiré.
 4. **INFORMATIONS POUR LA FACTURATION** : Cette case vous permet d'ajouter des renseignements supplémentaires que vous désirez faire parvenir à vos client sur la facture. Par exemple, vous pouvez l'utiliser pour ajouter vos numéros de TPS - TVQ.
 5. **TERMES ET CONDITIONS** : Indiquez les termes et conditions globaux pour les réservations en ligne. Les clients seront dans l'obligation de les accepter en effectuant une transaction en ligne. Cette option est réservées aux termes et conditions s'appliquant à votre compte en général. Si vous désirez rajouter des termes spécifiques à certains items, vous pouvez les ajouter à l'aide du menu **Termes**. [En savoir plus](termes_et_conditions)
-6. **CHAMPS À AJOUTER À LA CONFIRMATION DE COMMANDE** : Cette option vous permettra de rajouter un ou plusieurs champs supplémentaires à la confirmation de votre commande. 
+6. **CHAMPS À AJOUTER À LA CONFIRMATION DE COMMANDE** : Cette option vous permettra de rajouter un ou plusieurs champs supplémentaires à la confirmation de votre commande. Vous pouvez créer les champs à rajouter à partir du menu **Formulaires personnalisés**. [En savoir plus](formulaires_personnalises.md)
+7. **DATE DE FERMETURE DES RÉSERVATIONS** : Ajoutez (si désiré) la date après laquelle il ne sera plus possible aux clients de réserver. Laissez cette case vide si l'option ne s'applique pas à votre cas. 
+8. **NOMBRE DE SEMAINES AFFICHÉES DANS LA RÉSERVATION EN LIGNE** : Combien de semaines désirez-vous afficher dans l'interface publique de la réservation? Vous pouvez choisir une semaine pour donner une vision hebdomadaire ou alors choisir 4 semaines
 
 
 
