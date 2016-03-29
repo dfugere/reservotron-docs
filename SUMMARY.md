@@ -29,7 +29,7 @@
    * [Coupons](coupons.md)
    * [Participants détaillés](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
-   * [taxe-touristique](taxe-touristique.md)
+   * [Taxe touristique](taxe-touristique.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
