@@ -51,38 +51,14 @@ Ajoutez les informations désirées
 1. 
 Sauvegardez en cliquant sur “ **CRÉER DIVERS**”
 
-***Pour ajouter des certificats cadeaux à votre inventaire:***
-1. 
-Allez dans “Inventaire”
-1. 
-Sélectionnez “Certificats cadeaux”
-1. 
-Cliquez sur “Ajouter certificat” 
-1. 
-Ajoutez les informations désirées
-1. 
-Sauvegardez en cliquant sur “Créer certificat cadeau”
-
-***Pour ajouter des forfaits cadeaux à votre inventaire:***
-1. 
-Allez dans “Inventaire”
-1. 
-Sélectionnez “Forfaits”
-1. 
-Cliquez sur “Ajouter package”
-1. 
-Sélectionnez “Cadeaux” dans “Type de forfait”
-1. 
-Ajoutez les informations désirées
-1. 
-Sauvegardez en cliquant sur “Créer package”
 
 
-***Pour ajouter des produits à votre inventaire"***
-1. Allez dans "Inventaire"
-2. Sélectionnez "Produits"
-3. Cliquez sur "Ajouter produit"
+
+**Pour ajouter des produits à votre inventaire"**
+1. Allez dans "**INVENTAIRE**"
+2. Sélectionnez "**PRODUITS**"
+3. Cliquez sur "**AJOUTER PRODUIT**"
 4. Ajoutez les informations désirées
-5. Sauvegardez en cliquant sur "Créer produit"
+5. Sauvegardez en cliquant sur "**CRÉER PRODUIT**"
 
 ** Vous pouvez rajouter une localisation pour vos produits en cliquant sur le menu déroulant  Location et sélectionnant le lieu désiré.
