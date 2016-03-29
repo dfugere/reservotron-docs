@@ -23,6 +23,7 @@
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
    * [Inventaire](inventaire.md)
+   * [Suggestions](suggestions.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
    * [taxe-touristique](taxe-touristique.md)
 * [Fonctionnalités](fonctionnalites.md)
@@ -30,7 +31,6 @@
    * [Grille Tarifaire](grille_tarifaire1.md)
    * [Prix par type de participant](prix_par_type_de_participant.md)
    * [Billets exclusifs](billets_exclusifs.md)
-   * [Suggestions](suggestions.md)
    * [Forfaits](forfaits.md)
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
