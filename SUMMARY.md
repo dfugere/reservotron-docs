@@ -21,7 +21,7 @@
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-   * [Traduction](traduction.md)
+* [Traduction](traduction.md)
 * [Comptabilité](comptabilite.md)
 * [Gestion des réservations](gestion_des_reservations.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
