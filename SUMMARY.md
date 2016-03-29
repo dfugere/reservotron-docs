@@ -49,6 +49,7 @@
 * [COMPTABILITÉ](comptabilite.md)
    * [Rapport des ventes](rapport_des_ventes.md)
    * [Rapport comptable](rapport_comptable.md)
+   * Rapport global
 * [TRADUCTION](traduction.md)
 * [Aide](aide.md)
 * [logs](logs.md)
