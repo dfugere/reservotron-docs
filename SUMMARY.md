@@ -22,6 +22,7 @@
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
+   * tst
 * [Gestion de l'inventaire](gestion_inventaire.md)
    * [Inventaire](inventaire.md)
        * [taxe-touristique](taxe-touristique.md)
