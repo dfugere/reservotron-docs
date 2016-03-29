@@ -4,7 +4,7 @@
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
 * [Configuration](configuration_du_compte.md)
-   * [Configuration administrative](configuration_administrative.md)
+   * [Compte](configuration_administrative.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
            * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
