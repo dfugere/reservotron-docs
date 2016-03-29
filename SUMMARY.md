@@ -46,6 +46,6 @@
    * [Rapport comptable](rapport_comptable.md)
 * [DERNIÈRES FONCTIONNALITÉS](dernieres_fonctionnalites.md)
 * [TRADUCTION](traduction.md)
-* [Aide](aide.md)
+* [AIDE](aide.md)
 * [logs](logs.md)
 
