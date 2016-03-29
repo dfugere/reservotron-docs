@@ -46,8 +46,8 @@
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
 * RÉSERVATIONS
-* [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
+* [Rapport des commissions](rapport_des_commissions.md)
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [COMPTABILITÉ](comptabilite.md)
 * [TRADUCTION](traduction.md)
