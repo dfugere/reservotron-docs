@@ -1,7 +1,9 @@
-# Configuration du compte
+# Configuration
 
 
-La première étape pour débuter votre utilisation de Réservotron est de configurer votre compte. Ces informations vous permettront de personnaliser votre compte afin que ce dernier corresponde à l’image de votre entreprise.
+La première étape à compléter pour bien utiliser Réservotron est la configuration du compte. 
+
+Ces paramètres vous permettront non seulement de personnaliser votre compte afin que ce dernier corresponde à l’image de votre entreprise, mais aussi de bien déterminer les options globales spécifique à vos procédures.
 
 
  **Configuration du compte**
