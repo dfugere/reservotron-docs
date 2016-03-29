@@ -47,7 +47,7 @@
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
 * [Comptabilité](comptabilite.md)
-* [Revendre l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
+* [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [Traduction](traduction.md)
 * [Aide](aide.md)
 * [logs](logs.md)
