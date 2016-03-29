@@ -7,7 +7,7 @@
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
        * [Réinitialiser le mot de passe](reinitialiser_mot_de_passe.md)
-   * [Termes et conditions](termes_et_conditions.md)
+   * [Termes](termes_et_conditions.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
            * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
