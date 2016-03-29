@@ -22,7 +22,6 @@
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * INVENTAIRE
-* [Gestion des réservations](gestion_des_reservations.md)
 * [Gestion de l'inventaire](gestion_inventaire.md)
    * [Inventaire](inventaire.md)
        * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
