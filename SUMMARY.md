@@ -21,7 +21,7 @@
        * [Bloquer les réservations pour le lendemain](bloquer_les_reservations_pour_le_lendemain.md)
        * [Filtres et exportation](filtres_et_exportation.md)
        * [Factures et commandes](commandes.md)
-   * [Gestion des utilisateurs](gestion_des_utilisateurs.md)
+   * [Utilisateurs](gestion_des_utilisateurs.md)
        * [Réinitialiser le mot de passe](reinitialiser_mot_de_passe.md)
    * [Activation de la réservation en ligne](activation_de_la_reservation_en_ligne.md)
        * [Passerelle de paiement](configuration_de_la_passerelle_de_paiement.md)
