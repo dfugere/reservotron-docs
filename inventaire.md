@@ -6,50 +6,50 @@ Il est possible d’ajouter plusieurs horaires, types de participants et tarifs 
 
 Dans le cas où votre activité comprendrait des risques, vous pouvez directement y joindre un formulaire d’acceptation des risques. 
 
-***Pour ajouter des activités à  votre inventaire:***
+**Pour ajouter des activités à  votre inventaire:**
 1. 
-Allez dans “Inventaire” 
+Allez dans “**INVENTAIRE**” 
 1. 
-Sélectionnez “Activité” 
+Sélectionnez “**ACTIVITÉ**” 
 1. 
-Cliquez sur “Ajouter activité”
+Cliquez sur “**AJOUTER ACTIVITÉ**”
 1. 
 Ajoutez les informations désirées
-1. Cochez la case "Publiée"
+1. Cochez la case "**PUBLIÉE**"
 1. 
-Sauvegardez en cliquant sur “Créer Activité”
-1. Cliquez sur le lien "Modifier les horaires"
-2. Cliquez sur la case "Créer un nouvel horaire"
+Sauvegardez en cliquant sur “**CRÉER ACTIVITÉ**”
+1. Cliquez sur le lien "**MODIFIER LES HORAIRES**"
+2. Cliquez sur la case "**CRÉER UN NOUVEL HORAIRE**"
 3. Ajoutez les informations
 4. Sauvegardez
 
 Si vous désirez créer une seconde occurence de l'une de vos activités, il vous suffit de cliquer sur le lien *Dupliquer* de l'activité en question. Le duplicat sera directement enregistré dans l'inventaire de vos activités. Il vous sera possible de le modifier, si désiré, par la suite. 
 
-***Pour ajouter des hébergements à votre inventaire:***
+**Pour ajouter des hébergements à votre inventaire:**
 1. 
-Allez dans “Inventaire” 
+Allez dans “**INVENTAIRE**” 
 1. 
-Sélectionnez “Hébergement”
+Sélectionnez “**HÉBERGEMENT**”
 1. 
-Cliquez sur “Ajouter hébergement”
+Cliquez sur “**AJOUTER HÉBERGEMENT**”
 1. 
 Ajoutez les informations désirées
 1. 
-Cochez la case "publiée"
-1. Sauvegardez en cliquant sur “Créer hébergement”
+Cochez la case "**PUBLIÉE**"
+1. Sauvegardez en cliquant sur “**CRÉER HÉBERGEMENT**”
 
-***Pour ajouter des équipements ou services à votre inventaire:* **
+**Pour ajouter des équipements ou services à votre inventaire:**
 1. 
-Allez dans “Inventaire” 
+Allez dans “**INVENTAIRE**” 
 1. 
-Sélectionnez  “Divers”
+Sélectionnez  “**DIVERS**”
 1. 
-Cliquez sur “Ajouter divers”
+Cliquez sur “**AJOUTER DIVERS**”
 1. 
 Ajoutez les informations désirées 
-1. Cochez la case "Publiée"
+1. Cochez la case "**PUBLIÉE**"
 1. 
-Sauvegardez en cliquant sur “Créer divers”
+Sauvegardez en cliquant sur “ **CRÉER DIVERS**”
 
 ***Pour ajouter des certificats cadeaux à votre inventaire:***
 1. 
