@@ -7,9 +7,11 @@ Ce guide vous permettra de démarrer rapidement votre utilisation du logiciel en
 
 De la configuration de votre compte à la gestion des réservations, vous trouverez tout ce dont vous aurez besoin pour optimiser votre utilisation de Réservotron et améliorer vos ventes grâce à la réservation en ligne.
 
-[Introduction](README.md)
+**TABLE DES MATIÈRES**
 
-**CONFIGURATION DU COMPTE**
+
+
+**[CONFIGURATION DU COMPTE](configuration_du_compte.md)**
 * COMPTE
 * UTILISATEURS
 * TERMES ET CONDITIONS
@@ -46,7 +48,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * FILTRES ET EXPORTATIONS
 * FACTURES ET COMMANDES
 
-[PARTAGE ET REVENTE DE L'INVENTAIRE D'UN FOURNISSEUR](revendre_linventaire_dun_fournisseur.md)
+**[PARTAGE ET REVENTE DE L'INVENTAIRE D'UN FOURNISSEUR](revendre_linventaire_dun_fournisseur.md)**
 
 **COMPTABILITÉ**
 * RAPPORT DES COMMISSIONS
@@ -54,6 +56,6 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * RAPPORT GLOBAL
 * RAPPORT COMPTABLE
 
-[AIDE](aide.md)
+[**AIDE**](aide.md)
 
-[DERNIÈRES FONCTIONNALITÉS](dernieres_fonctionnalites.md)
+[**DERNIÈRES FONCTIONNALITÉS**](dernieres_fonctionnalites.md)
