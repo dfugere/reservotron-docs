@@ -48,7 +48,7 @@
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
 * [COMPTABILITÉ](comptabilite.md)
    * [Rapport des ventes](rapport_des_ventes.md)
-   * Rapport comptable
+   * [Rapport comptable](rapport_comptable.md)
 * [TRADUCTION](traduction.md)
 * [Aide](aide.md)
 * [logs](logs.md)
