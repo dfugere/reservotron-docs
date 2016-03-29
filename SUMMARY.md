@@ -27,7 +27,7 @@
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
-   * [Détaillez vos participants](detaillez_vos_participants.md)
+   * [Participants détaillés](detaillez_vos_participants.md)
    * [Grille Tarifaire](grille_tarifaire1.md)
    * [taxe-touristique](taxe-touristique.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
