@@ -1,7 +1,7 @@
 # Summary
 
-* [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [FAQ](faq.md)
+* [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
 * [Configuration du compte](configuration_du_compte.md)
    * [Configuration administrative](configuration_administrative.md)
