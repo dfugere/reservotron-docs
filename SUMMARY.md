@@ -14,7 +14,7 @@
            * [stripe](stripe.md)
            * [moneris](moneris.md)
            * [desjardins](desjardins.md)
-       * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
+   * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
    * [Gestion de l'inventaire](gestion_inventaire.md)
        * [Inventaire](inventaire.md)
            * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
