@@ -1,4 +1,4 @@
-# Assignation de ressources
+# Ressources
 
 Les ressources servent à partager un inventaire entre différents produits pouvant être réservés en ligne.
 
