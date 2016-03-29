@@ -26,7 +26,6 @@
        * [Allotements](allotements.md)
        * [Suggestions](suggestions.md)
        * [Forfaits](forfaits.md)
-       * K
    * [Forfaits Cadeaux](forfaits_cadeaux.md)
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
