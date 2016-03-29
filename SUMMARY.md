@@ -15,7 +15,7 @@
    * [Catégories](cat.md)
    * [Cartes interactives](cartes_interactives.md)
    * [Saisons](saisons.md)
-   * [Assignation de ressources](assignation_de_ressources.md)
+   * [Ressources](assignation_de_ressources.md)
        * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
        * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
