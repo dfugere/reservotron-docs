@@ -3,7 +3,6 @@
 * [FAQ](faq.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
-   * RÉSERVATIONS
 * [CONFIGURATION](configuration_du_compte.md)
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
@@ -46,6 +45,7 @@
    * [Certificats cadeaux](certificats_cadeaux.md)
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
+* RÉSERVATIONS
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Fiches clients](fiches_clients.md)
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
