@@ -12,8 +12,8 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 
 
 **[CONFIGURATION DU COMPTE](configuration_du_compte.md)**
-* COMPTE
-* UTILISATEURS
+* [COMPTE](configuration_administrative.md)
+* [UTILISATEURS](gestion_des_utilisateurs.md)
 * TERMES ET CONDITIONS
 * OPTIONS DE PAIEMENT
 * PAIEMENT EN LIGNE
