@@ -3,7 +3,6 @@
 * [FAQ](faq.md)
 * [Dernières fonctionnalités](dernieres_fonctionnalites.md)
 * [Introduction](README.md)
-   * INVENTAIRE
 * [Configuration](configuration_du_compte.md)
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
@@ -22,6 +21,7 @@
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
+* INVENTAIRE
 * [Gestion des réservations](gestion_des_reservations.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
    * [Disponibilités](disponibilites.md)
