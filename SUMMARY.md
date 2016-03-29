@@ -46,6 +46,7 @@
    * [Coupons](coupons.md)
    * [Allotements](allotements.md)
 * [RÉSERVATIONS](reservations.md)
+   * test
 * [Fiches clients](fiches_clients.md)
 * [Rapport des commissions](rapport_des_commissions.md)
 * [Partage et revente de l'inventaire d'un fournisseur](revendre_linventaire_dun_fournisseur.md)
