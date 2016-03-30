@@ -4,7 +4,7 @@ Vous pouvez créer différentes saisons. Ainsi vous serez en mesure d’assigner
 
 ***Pour créer une saison: ***
 1. 
-Allez dans “Autre ” 
+Allez dans “Autre” 
 1. 
 Sélectionnez “Saisons” 
 1. 
