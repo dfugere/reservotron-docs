@@ -31,6 +31,7 @@
    * [Grille Tarifaire](grille_tarifaire1.md)
    * [Taxe touristique](taxe-touristique.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
+   * Créer une activité
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
    * [Création et modifications à l'interne](creation_et_modifications_a_linterne.md)
