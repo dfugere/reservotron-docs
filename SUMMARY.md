@@ -10,6 +10,7 @@
    * [Options de paiement](options_de_paiement.md)
    * [Paiement en ligne](paiement_en_ligne.md)
        * [stripe](payments/stripe.md)
+       * Moneris
    * [Assurance d'annulation](assurance_dannulation.md)
    * [Courriels automatisés](courriels_automatises.md)
    * [Catégories](cat.md)
