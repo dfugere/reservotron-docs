@@ -16,7 +16,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [UTILISATEURS](gestion_des_utilisateurs.md)
 * [TERMES ET CONDITIONS](termes_et_conditions.md)
 * [OPTIONS DE PAIEMENT](options_de_paiement.md)
-[* PAIEMENT EN LIGNE](paiement_en_ligne.md)
+* [PAIEMENT EN LIGNE](paiement_en_ligne.md)
 * [ASSURANCE D'ANNULATION](assurance_dannulation.md)
 * [COURRIELS AUTOMATISÉS](courriels_automatises.md)
 * [CATÉGORIES](cat.md)
