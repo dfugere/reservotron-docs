@@ -45,7 +45,7 @@ Si vous créez une activité, vous pouvez suggérer la location de l’équipeme
 
 
 Il est également possible de créer une suggestion obligatoire. Celle-ci s'ajoutera au panier d'achat de façon automatique.
-
+[Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](stripe.md)
 Cette option, très utilisée pour les parc régionaux, vous permettra de vendre obligatoirement un item tel qu'un droit d'accès par exemple lors d'une réservation d'hébergement ou activité.
 
 **Pour créer des suggestions obligatoires relatives à un item de l'inventaire:**
