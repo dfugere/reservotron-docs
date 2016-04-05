@@ -37,4 +37,4 @@ Après avoir commencé à créer votre nouvelle saison (voir étape de création
 
 Vous pourrez ensuite choisir ce groupe de saison lors de la création d'une deuxième occurrence (exemple : *basse saison*). 
 
-Lors de la création de vos réservables
+Lors de la création de vos réservables, il vous suffira d'assigner le groupe de saison pour pouvoir gérer facilement vos items.
