@@ -10,7 +10,7 @@ Pour démarrer votre utilisation rapidement, nous vous recommandons Stripe en ta
 
 Reservotron.com supporte la majorité des passerelles de paiements existantes. Voici la liste des passerelles les plus couramment utilisées:)
 
-- [Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](stripe.md)
+- [Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](payments/stripe.md)
 - [Moneris - Cliquez ici pour savoir comment configurer Moneris](moneris.md)
 - [Desjardins - Cliquez ici pour savoir comment configurer Desjardins](desjardins.md)
 - Paypal
