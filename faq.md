@@ -2,7 +2,7 @@
 
 Q : ** Puis-je utiliser Réservotron pour organiser des promotions?**
 
-R : Oui! Réservotron offre plusieurs fonctionnalités permettant de planifier des promotions. Vous pouvez, par exemple, utiliser les coupons pour créer des codes à rabais que vos clients utiliseront lors des transactions, ou encore créer des forfaits et certificats cadeaux. [En savoir plus](coupons)
+R : Oui! Réservotron offre plusieurs fonctionnalités permettant de planifier des promotions. Vous pouvez, par exemple, utiliser les coupons pour créer des codes à rabais que vos clients utiliseront lors des transactions, ou encore créer des forfaits et certificats cadeaux. [En savoir plus](coupons.md)
 
 Q : ** Quelle passerelle de paiement dois-je utiliser pour accepter les réservations en ligne?**
 
