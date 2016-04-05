@@ -16,13 +16,13 @@ Cette option vous sera utile si vous désirez spécifier des paiements automatis
 
 
 ####Pour ajouter des options de paiement dynamique
-1. Allez dans Autres → Options de paiement
-2. Cliquez sur *Ajouter option de paiement*
+1. Allez dans **AUTRES** → **OPTIONS DE PAIEMENT**
+2. Cliquez sur **AJOUTER OPTION DE PAIEMENT**
 3. Ajoutez le nom de votre option
 4. Entrez la priorité de l'option (1 étant le plus prioritaire) - Laissez cette case vide si l'option ne s'applique pas
-5. Cliquez sur *Ajouter un terme*
+5. Cliquez sur **AJOUTER UN TERME**
 6. Ajoutez le pourcentage à prélever et le nombre de jours précédents l'arrivée. Le pourcentage choisi sera prélevé au nombre de jours déterminé.
-7. Sauvegardez en cliquant sur *Créer option de paiement*
+7. Sauvegardez en cliquant sur **CRÉER OPTION DE PAIEMENT**
 
 ######Exemple: Si vous mettez 60% dans *Pourcentage* et 14 dans la case *Nombre de jours*, alors 60% du total de la commande sera prélevé 14 jours précédent la date d'arrivée du client.
 
