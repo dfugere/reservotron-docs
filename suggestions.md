@@ -2,8 +2,6 @@
 
 La réservation d’une activité requiert souvent la location d’un équipement ou même d’un hébergement. Dans ce sens, la fonctionnalité **Suggestion** vous permettra de proposer à vos clients des suggestions d’items supplémentaires à réserver en rapport avec les items sélectionnés par le client. 
 
-[Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](stripe.md)
-
 Ces suggestions apparaitront comme article optionnel dans le panier d’achat lors de la transaction. Si votre client choisit de procéder à l’ajout de votre suggestion à son panier d’achat, les quantités et type de participants seront automatiquement mises à jour de façon à ce qu’elles concordent avec celles inscrites pour la réservation initiale (ex: si le client a réservé une activité pour trois personnes (deux adultes et un enfant), la suggestion sera également pour deux adultes et un enfant). Il restera possible de modifier les quantités via le panier d’achat. 
 
 Si vous créez une activité, vous pouvez suggérer la location de l’équipement nécessaire à celle-ci. Dans ce cas, il faudra spécifier *“divers”* dans le type de produit. Vous pouvez ajouter autant de suggestions que désirez.
