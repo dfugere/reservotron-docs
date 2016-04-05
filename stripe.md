@@ -1,6 +1,6 @@
 # Comment configurer Stripe?
 
-Une fois votre compte ouvert, suivez les étapes suivantes pour l'activer dans Réservotron.
+Une fois votre compte ouvert, suivez les étapes suivantes pour l'activer dans Réservotron
 
 1. Cliquez sur ***"Your Account"***
 2. Sélectionnez ***"Account Settings"***
