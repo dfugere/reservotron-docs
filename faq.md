@@ -7,7 +7,7 @@ R : Oui! Réservotron offre plusieurs fonctionnalités permettant de planifier d
 Q : ** Quelle passerelle de paiement dois-je utiliser pour accepter les réservations en ligne?**
 
 R : Réservotron fonctionne avec l'ensemble des passerelles de paiement. Si vous désirez activer immédiatement vos réservations en ligne, nous vous recommandons d'ouvrir un compte avec Stripe. Vous pourrez commencer à recevoir les paiements en ligne dans l'espace de cinq minutes.
-[En savoir plus](stripe.md)
+[En savoir plus](paiement_en_ligne.md)
 
 Q :** Puis-je appliquer des tarifs différents par type de participant?**
 
