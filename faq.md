@@ -11,7 +11,7 @@ R : Réservotron fonctionne avec l'ensemble des passerelles de paiement. Si vous
 
 Q :** Puis-je appliquer des tarifs différents par type de participant?**
 
-R : Oui. Il suffit de spécifier tous les participants désirés lors de la création de votre réservable et vous serez en mesure d'assigner un tarif différent à chacun. [En savoir plus](prix_par_type_de_participant.md)
+R : Oui. Il suffit de spécifier tous les participants désirés lors de la création de votre réservable et vous serez en mesure d'assigner un tarif différent à chacun. [En savoir plus](grille_tarifaire1.md)
 
 Q :** Mon activité comporte des risques. Puis-je obliger mes clients à les accepter avant de procéder à la réservation?**
 
