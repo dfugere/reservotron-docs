@@ -10,21 +10,22 @@ Pour démarrer votre utilisation rapidement, nous vous recommandons Stripe en ta
 
 Reservotron.com supporte la majorité des passerelles de paiements existantes. Voici la liste des passerelles les plus couramment utilisées:)
 
-[Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](stripe.md)
-[Moneris - Cliquez ici pour savoir comment configurer Moneris](moneris.md)
-[Desjardins - Cliquez ici pour savoir comment configurer Desjardins](desjardins.md)
-Paypal
-Optimal Payments
-Authorize.net
-Beanstream
-Braintree
-Chase Paymentech (Orbital) * E-xact
-Elavon MyVirtualMerchant
-First Data GGE4
-IATS Payments
-Psigate
-Sage Payment Solutions
-Skip Jack
+- [Stripe (recommandé initialement) - Cliquez ici pour savoir comment configurer Stripe](stripe.md)
+- [Moneris - Cliquez ici pour savoir comment configurer Moneris](moneris.md)
+- [Desjardins - Cliquez ici pour savoir comment configurer Desjardins](desjardins.md)
+- Paypal
+- Optimal Payments
+- Authorize.net
+- Beanstream
+- Braintree
+- Chase Paymentech (Orbital) 
+- E-xact
+- Elavon MyVirtualMerchant
+- First Data GGE4
+- IATS Payments
+- Psigate
+- Sage Payment Solutions
+- Skip Jack
 
 
 
