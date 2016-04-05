@@ -9,7 +9,7 @@
    * [Termes](termes_et_conditions.md)
    * [Options de paiement](options_de_paiement.md)
    * [Paiement en ligne](paiement_en_ligne.md)
-       * stripe
+       * [stripe](payments/stripe.md)
    * [Assurance d'annulation](assurance_dannulation.md)
    * [Courriels automatisés](courriels_automatises.md)
    * [Catégories](cat.md)
