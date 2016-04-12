@@ -17,6 +17,10 @@ Si vous désirez rendre le formulaire obligatoire, cochez la case **REQUIS** du 
 
 Les renseignements recueillis par les formulaires personnalisés sont accessibles à partir des **commandes** des clients ainsi qu'à partir des **fiches de groupes**.
 
+Vous pouvez également traduire vos formulaires personnalisés pour qu'ils soient disponibles dans plusieurs langues. Le processus de traduction des formulaires personnalisés est identique à celui des items de l'inventaire. 
+
+Pour savoir comment traduire vos réservables, [cliquez ici](traduction.md).
+
 ![](Screen Shot 2015-04-24 at 4.55.53 PM.png)
 
 ####Options du formulaire
