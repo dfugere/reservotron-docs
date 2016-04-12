@@ -4,15 +4,38 @@ Afin de répondre aux besoins spécifiques de vos activités, nous vous offrons 
 
 Pour créer un formulaire personnalisé:
 
-1. Allez dans le menu ***Autres*** 
-2. Sélectionnez ***Formulaires Personnalisés***
-3. Cliquez sur ***Ajouter Formulaire Personnalisé***
+1. Allez dans le menu **AUTRES** 
+2. Sélectionnez **FORMULAIRES PERSONNALISÉS**
+3. Cliquez sur **AJOUTER FORMULAIRE PERSONNALISÉ**
 4. Choisissez le nom de votre formulaire
-5. Cliquez sur le bouton ***Ajouter un champ*** pour demander l'information en question
+5. Cliquez sur le bouton **AJOUTER UN CHAMP** pour demander l'information en question
 6. Entrez la question désirée et sélectionnez l'option pour recueillir les réponses (ligne de texte; boîte de texte, case à cocher; liste de choix)
 
 Vous pouvez ajouter autant de champs que désiré. 
 
-Si vous désirez rendre le formulaire obligatoire, cochez la case ***Requis*** du champ. Vos clients seront dans l'obligation de répondre à la question avant de pouvoir effectuer la réservation. 
+Si vous désirez rendre le formulaire obligatoire, cochez la case **REQUIS** du champ. Vos clients seront dans l'obligation de répondre à la question avant de pouvoir effectuer la réservation. 
 
 ![](Screen Shot 2015-04-24 at 4.55.53 PM.png)
+
+####Options du formulaire
+
+**CRÉER UNE BOÎTE DE TEXTE**
+1. Cliquez sur le bouton **AJOUTER UN CHAMP**
+2. Entrez la question que vous désirez demander dans la case **QUESTION**
+3. Sélectionnez **BOÎTE DE TEXTE** dans le menu déroulant à droite de la question
+
+
+**CRÉER UNE CASE À COCHER**
+1. Cliquez sur le bouton **AJOUTER UN CHAMP**
+2. Entrez la question que vous désirez demander dans la case **QUESTION**
+3. Sélectionnez **CASE À COCHER** dans le menu déroulant à droite de la question
+
+*Cette option est idéale pour les confirmations que vous désirez obtenir. Par exemple: "J'ai plus de 18 ans"*
+
+**CRÉER UNE LISTE DE CHOIX**
+1. Cliquez sur le bouton **AJOUTER UN CHAMP**
+2. Entrez la question que vous désirez demander dans la case **QUESTION**
+3. Sélectionnez **LISTE DE CHOIX** dans le menu déroulant à droite de la question
+4. Une boîte de texte blanche s'affichera. Entrez vos choix dans la boîte. Retournez à la ligne au début de chaque nouveau choix. 
+
+*Cette option est idéale pour les choix "Oui" / "Non" ; ou encore une liste de choix à offrir aux clients*
