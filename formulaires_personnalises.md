@@ -15,6 +15,8 @@ Vous pouvez ajouter autant de champs que désiré.
 
 Si vous désirez rendre le formulaire obligatoire, cochez la case **REQUIS** du champ. Vos clients seront dans l'obligation de répondre à la question avant de pouvoir effectuer la réservation. 
 
+Les renseignements recueillis par les formulaires personnalisés sont accessibles à partir des **commandes** des clients ainsi qu'à partir des **fiches de groupes**.
+
 ![](Screen Shot 2015-04-24 at 4.55.53 PM.png)
 
 ####Options du formulaire
@@ -39,3 +41,4 @@ Si vous désirez rendre le formulaire obligatoire, cochez la case **REQUIS** du 
 4. Une boîte de texte blanche s'affichera. Entrez vos choix dans la boîte. Retournez à la ligne au début de chaque nouveau choix. 
 
 *Cette option est idéale pour les choix "Oui" / "Non" ; ou encore une liste de choix à offrir aux clients*
+
