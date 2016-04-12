@@ -56,6 +56,8 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [RAPPORT GLOBAL](rapport_global.md)
 * [RAPPORT COMPTABLE](rapport_comptable.md)
 
+**[TRADUCTION](traduction.md)**
+
 [**AIDE**](aide.md)
 
 [**DERNIÈRES FONCTIONNALITÉS**](dernieres_fonctionnalites.md)
