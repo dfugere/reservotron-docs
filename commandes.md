@@ -19,3 +19,5 @@ Tutoriel vidéo : https://youtu.be/589_kheivuw
 Vous pourrez consulter le détail de la facture tel que le numéro de facture, date de création, montant et plus.
 
 ![](Screen Shot 2016-02-10 at 4.46.54 PM.png)
+
+
