@@ -20,5 +20,5 @@ Ces paramètres vous permettront non seulement de personnaliser votre compte afi
 * [RESSOURCES](assignation_de_ressources.md)
 * [HEURES D'OUVERTURES](heures_douverture.md)
 * [FORMULAIRES PERSONNALISÉS](formulaires_personnalises.md)
-* DOCUMENTS
+* [DOCUMENTS](documents.md)
 * [AJOUTER RÉSERVOTRON SUR VOTRE SITE](ajoutez_reservotron_sur_votre_site.md)
