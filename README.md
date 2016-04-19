@@ -25,6 +25,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [RESSOURCES](assignation_de_ressources.md)
 * [HEURES D'OUVERTURES](heures_douverture.md)
 * [FORMULAIRES PERSONNALISÉS](formulaires_personnalises.md)
+* [DOCUMENTS](documents.md)
 * [AJOUTER RÉSERVOTRON SUR VOTRE SITE](ajoutez_reservotron_sur_votre_site.md)
 
 **INVENTAIRE**
