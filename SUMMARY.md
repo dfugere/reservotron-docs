@@ -23,6 +23,7 @@
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
+   * DOCUMENTS
 * [INVENTAIRE](inventaire.md)
    * [Créer une activité](creer_une_activite.md)
    * [Allotements](allotements.md)
