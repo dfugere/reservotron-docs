@@ -22,7 +22,7 @@
        * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
    * [Heures d'ouverture](heures_douverture.md)
    * [Formulaires personnalisés](formulaires_personnalises.md)
-   * [DOCUMENTS](documents.md)
+   * [Documents](documents.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
 * [INVENTAIRE](inventaire.md)
    * [Créer une activité](creer_une_activite.md)
