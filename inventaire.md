@@ -17,7 +17,7 @@ Dans le cas où votre activité comprendrait des risques, vous pouvez directemen
 * [Forfaits Cadeaux](forfaits_cadeaux.md)
 * [Certificats cadeaux](certificats_cadeaux.md)
 * [Coupons](coupons.md)
-* Participants détaillés
+* [Participants détaillés](detaillez_vos_participants.md)
 * [Grille tarifaire](grille_tarifaire1.md)
 * [Taxe touristique](taxe-touristique.md)
 * Gérer des sorties ou journées spécifiques
