@@ -2,6 +2,9 @@
 
 * [FAQ](faq.md)
 * [INTRODUCTION](README.md)
+* [Ressources](assignation_de_ressources.md)
+   * [Réservation de refuge par lit ou en exclusivité](reservation_de_refuge_par_lit_ou_en_exclusivite.md)
+   * [Appliquer un inventaire de kayak à une activité guidé](appliquer_un_inventaire_de_kayak_a_une_activite_guide.md)
 * [CONFIGURATION](configuration_du_compte.md)
    * [Compte](configuration_administrative.md)
    * [Utilisateurs](gestion_des_utilisateurs.md)
