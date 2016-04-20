@@ -29,7 +29,10 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [AJOUTER RÉSERVOTRON SUR VOTRE SITE](ajoutez_reservotron_sur_votre_site.md)
 
 **INVENTAIRE**
-* [INVENTAIRE](inventaire.md)
+* [CRÉER UNE ACTIVITÉ](creer_une_activite.md)
+* [CRÉER UN HÉBERGEMENT](creer_un_hebergement.md)
+* [CRÉER UN DIVERS](creer_un_divers.md) (équipement ou service)
+* [CRÉER UN PRODUIT](produits.md)
 * [ALLOTEMENTS](allotements.md)
 * [SUGGESTIONS](suggestions.md)
 * [FORFAITS SUR MESURE](forfaits.md)
