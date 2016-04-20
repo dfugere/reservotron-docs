@@ -6,51 +6,18 @@ Il est possible d’ajouter plusieurs horaires, types de participants et tarifs 
 
 Dans le cas où votre activité comprendrait des risques, vous pouvez directement y joindre un formulaire d’acceptation des risques. 
 
-**Pour ajouter des activités à  votre inventaire:**
-1. 
-Allez dans “**INVENTAIRE**” 
-1. 
-Sélectionnez “**ACTIVITÉ**” 
-1. 
-Cliquez sur “**AJOUTER ACTIVITÉ**”
-1. 
-Ajoutez les informations désirées
-1. Cochez la case "**PUBLIÉE**"
-1. 
-Sauvegardez en cliquant sur “**CRÉER ACTIVITÉ**”
-1. Cliquez sur le lien "**MODIFIER LES HORAIRES**"
-2. Cliquez sur la case "**CRÉER UN NOUVEL HORAIRE**"
-3. Ajoutez les informations
-4. Sauvegardez
-
-Si vous désirez créer une seconde occurence de l'une de vos activités, il vous suffit de cliquer sur le lien *Dupliquer* de l'activité en question. Le duplicat sera directement enregistré dans l'inventaire de vos activités. Il vous sera possible de le modifier, si désiré, par la suite. 
-
-**Pour ajouter des hébergements à votre inventaire:**
-1. 
-Allez dans “**INVENTAIRE**” 
-1. 
-Sélectionnez “**HÉBERGEMENT**”
-1. 
-Cliquez sur “**AJOUTER HÉBERGEMENT**”
-1. 
-Ajoutez les informations désirées
-1. 
-Cochez la case "**PUBLIÉE**"
-1. Sauvegardez en cliquant sur “**CRÉER HÉBERGEMENT**”
-
-**Pour ajouter des équipements ou services à votre inventaire:**
-1. 
-Allez dans “**INVENTAIRE**” 
-1. 
-Sélectionnez  “**DIVERS**”
-1. 
-Cliquez sur “**AJOUTER DIVERS**”
-1. 
-Ajoutez les informations désirées 
-1. Cochez la case "**PUBLIÉE**"
-1. 
-Sauvegardez en cliquant sur “ **CRÉER DIVERS**”
-
-
-
-
+* [Créer une activité](creer_une_activite.md)
+* [Créer un hébergement](creer_un_hebergement.md)
+* [Créer un divers](creer_un_divers.md) (équipement ou service)
+* [Créer un produit](produits.md)
+* Ressources
+* [Allotements](allotements.md)
+* [Suggestions](suggestions.md)
+* [Forfaits](forfaits.md)
+* [Forfaits Cadeaux](forfaits_cadeaux.md)
+* [Certificats cadeaux](certificats_cadeaux.md)
+* [Coupons](coupons.md)
+* Participants détaillés
+* [Grille tarifaire](grille_tarifaire1.md)
+* [Taxe touristique](taxe-touristique.md)
+* Gérer des sorties ou journées spécifiques
