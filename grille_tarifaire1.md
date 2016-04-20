@@ -8,9 +8,11 @@ La case publié est cochée par défaut. Elle permet aux clients de voir les dif
 
 Si désiré, vous pouvez configurer un nouveau type de participant et décocher la case publié. Le tarif sera ajouté à l’activité, mais demeurera invisible au client. Ceci étant dit, vos employés pourront eux voir le tarif et l’ajouter à une commande dans les cas où il s’applique.
 
+####Prix non publiés - avec libélé
+
 Grâce au champs "Libélé", vous pourrez ajouter plusieurs tarifs à un même type de participant. 
 
-Cette option est idéale pour l’ajout de participants spéciaux, tel que des accompagnateurs de groupe, participants à besoins particuliers, les tarifs des agences ou organisateur de tours, lors d’une réservation. 
+Cette option est idéale pour l’ajout de participants spéciaux, tel que des accompagnateurs de groupe, participants à besoins particuliers, **les tarifs des agences** ou **organisateur de tours**, lors d’une réservation. 
 
 
 1. Sélectionnez le type de participant désiré. S'il n'est pas dans la liste déroulante, ajoutez le. 
