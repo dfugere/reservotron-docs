@@ -8,7 +8,7 @@ Pour accepter le paiement en ligne avec Desjardins, vous devez parler à un rep
 * Demande en ligne :
 http://www.desjardins.com/fr/entreprises/solutions/solutions-marchands/paiement-internet/
 
-Lors de votre ouverture de compte marchant, il est important de spécifier que les paiements seront traités par Reservotron et qui est déjà certifiée par Desjardins comme solution de paiement "clé en main".
+Lors de votre ouverture de compte marchant, il est important de spécifier que les paiements seront traités par Reservotron et qui est déjà certifiée par Desjardins comme solution de paiement "clé en main". Vous pourrez, au besoin, partager la page qui indique bien que Code Génome est un intégrateur déjà certifié par Desjardins : https://www.desjardins.com/entreprises/paiement-financement-point-vente/accepter-paiements-carte/accepter-paiements-internet/programme-partenariat/integrateurs-certifies.jsp.
 
 Lorsque votre compte sera ouvert, vous n’aurez qu’à nous transmettre vos informations de marchand et nous pourrons activer le paiement en ligne immédiatement. 
 
