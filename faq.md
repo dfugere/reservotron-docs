@@ -20,3 +20,7 @@ R : Oui. Vous pouvez utiliser les formulaires personnalisés pour demander l'inf
 Q :** Mon inventaire est limité. Comment puis-je gérer sa capacité?**
 
 R : Vous pouvez facilement gérer votre inventaire à l'aide des ressources. Ces dernières vous permettront de spécifier la quantité et la capacité de votre inventaire. En assignant des ressources à vos items réservables, vous vous assurez de ne jamais excéder la capacité maximale de votre inventaire. [En savoir plus](assignation_de_ressources.md)
+
+Q : **Puis-je créer des droits d'accès à l'aide de Réservotron?**
+
+R : Oui. Vous pouvez utiliser les divers pour la création de droit d'accès réservables. De plus, vous pouvez assigner des tarifs différents pour les adultes, enfants etc. [En savoir plus](creer_un_divers.md)
