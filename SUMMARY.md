@@ -36,7 +36,7 @@
    * [Grille Tarifaire](grille_tarifaire1.md)
    * [Taxe touristique](taxe-touristique.md)
    * [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
-   * Créer un hébergement
+   * [Créer un hébergement](creer_un_hebergement.md)
    * Créer un divers
 * [RÉSERVATIONS](reservations.md)
    * [Tableau de bord](tableau_de_bord.md)
