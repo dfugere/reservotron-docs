@@ -35,6 +35,6 @@ Vous serez alors redirigé vers le calendrier du divers.
 4. Ajoutez les montants respectifs à côté de chaque participant
 5. Sauvegardez en cliquant sur **SAUVEGARDER DIVERS**
 
-Vous pouvez par la suite ajouter ces droits d'accès comme suggestion (obligatoire ou facultative) à vos activités. Cela fera en sorte que les droits d'accès apparaitront dans le panier d'achat du client lors d'une réservation. Si la suggestion est créée en mode *obligatoire*, alors le client sera obligé de l'acheter également. Si elle est *facultative*, alors le client pourra choisir de l'ajouter à sa commande ou non.
+Vous pouvez par la suite ajouter ces droits d'accès comme suggestion (obligatoire ou facultative) à vos activités. Cela fera en sorte que les droits d'accès apparaitront dans le panier d'achat du client lors d'une réservation. Si la suggestion est créée en mode *obligatoire*, alors le client sera obligé de l'acheter également. Si elle est *optionnel*, alors le client pourra choisir de l'ajouter à sa commande ou non.
 
 [Cliquez ici](suggestions.md) pour savoir comment configurer des suggestions.
