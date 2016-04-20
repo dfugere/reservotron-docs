@@ -65,3 +65,9 @@ Exemple : Si le prix de la location d'une embarcation varie en fonction de la du
     - Cliquer sur ajouter un tarif
     - Créer un 3e tarif avec durée minimale = 7 jours et durée maximale = 10 jours
 
+
+####Prix par saisons
+
+Les prix varient souvent en fonction des saisons. Pour cela, vous avez la possibilité d'assigner des tarifs à vos saisons pour vos **hébergements** et vos **divers**.
+
+Cette option vous permettra de rajouter plusieurs tarifs différents à un même item. Lors d'une réservation, le client aura automatiquement à payer le tarif en vigueur pour la date qu'il réserve.
