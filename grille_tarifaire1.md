@@ -71,3 +71,21 @@ Exemple : Si le prix de la location d'une embarcation varie en fonction de la du
 Les prix varient souvent en fonction des saisons. Pour cela, vous avez la possibilité d'assigner des tarifs à vos saisons pour vos **hébergements** et vos **divers**.
 
 Cette option vous permettra de rajouter plusieurs tarifs différents à un même item. Lors d'une réservation, le client aura automatiquement à payer le tarif en vigueur pour la date qu'il réserve.
+
+**Pour assigner des prix par saisons aux hébergements**:
+1. Allez dans **INVENTAIRE**
+2. Sélectionnez **HÉBERGEMENTS**
+3. Sélectionnez l'hébergement pour lequel vous désirez appliquer de nouveaux tarifs - ou créer un nouvel hébergement ([cliquez ici pour savoir comment](creer_un_hebergement.md))
+4. Cliquez sur le bouton **AJOUTER UN TARIF**
+5. Ajoutez le montant désiré
+6. Cliquez sur la liste déroulante **SAISON** et sélectionnez la saison pour laquelle vous désirez assigner ce tarif. Si la saison désirée ne fait pas partie de la liste, vous pouvez [la créer](saisons.md).
+7. Cliquez sur le bouton **AJOUTER UN TARIF** et répétez cette étape autant de fois que nécessaire. 
+
+**Pour assigner des prix par saisons aux divers**:
+1. Allez dans **INVENTAIRE**
+2. Sélectionnez **DIVERS**
+3. Sélectionnez l'équipement pour lequel vous désirez appliquer de nouveaux tarifs - ou créer un nouveau divers ([cliquez ici pour savoir comment](creer_un_divers.md))
+4. Cliquez sur le bouton **MODIFIER LES PRIX**
+5. Ajoutez le montant désiré
+6. Cliquez sur la liste déroulante **SAISON** et sélectionnez la saison pour laquelle vous désirez assigner ce tarif. Si la saison désirée ne fait pas partie de la liste, vous pouvez [la créer](saisons.md).
+7. Cliquez sur le bouton **AJOUTER UN TARIF** et répétez cette étape autant de fois que nécessaire. 
