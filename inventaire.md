@@ -10,7 +10,7 @@ Dans le cas où votre activité comprendrait des risques, vous pouvez directemen
 * [Créer un hébergement](creer_un_hebergement.md)
 * [Créer un divers](creer_un_divers.md) (équipement ou service)
 * [Créer un produit](produits.md)
-* Ressources
+* [Ressources](assignation_de_ressources.md)
 * [Allotements](allotements.md)
 * [Suggestions](suggestions.md)
 * [Forfaits](forfaits.md)
