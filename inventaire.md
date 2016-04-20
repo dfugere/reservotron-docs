@@ -20,4 +20,4 @@ Dans le cas où votre activité comprendrait des risques, vous pouvez directemen
 * [Participants détaillés](detaillez_vos_participants.md)
 * [Grille tarifaire](grille_tarifaire1.md)
 * [Taxe touristique](taxe-touristique.md)
-* Gérer des sorties ou journées spécifiques
+* [Gérer des sorties ou journées spécifiques](publier_des_sorties_ou_journees_specifiques.md)
