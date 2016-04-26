@@ -38,7 +38,20 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ?t=184
 
 ![](Screen Shot 2016-02-10 at 2.18.38 PM.png)
 
+**[Pour apprendre à créer des forfaits cadeaux, cliquez ici.](forfaits_cadeaux.md)**
 
-[Pour apprendre à créer des forfaits cadeaux, cliquez ici.](forfaits_cadeaux.md)
+Vous pouvez également inclure des droits d'accès directement dans votre forfait, même si les tarifs sont différents par type de participants. Ainsi, en réservant un forfait, le client achètera automatiquement les droits d'accès nécessaires.
 
+**Exemple de configuration de forfait pour inclure des droits d'accès:**
+
+1. Créez votre droit d'accès (ou autre item) à partir du menu **DIVERS** et ajoutez les prix par type de participants. [Cliquez ici](creer_un_divers.md) pour consulter les étapes détaillées à suivre pour créer des droits d'accès en tant que divers. *À noter que les types de participants doivent être les mêmes que ceux utilisés dans le forfait.*
+2. Ajoutez le divers à votre forfait dans les éléments inclus.
+3. Dans les éléments inclus, modifiez la case **RABAIS** à 0% pour appliquer les frais. Si vous désirez que les frais soient gratuits avec l'achat du forfait, gardez **100%**. Si vous désirez appliquer tout autre rabais, indiquez le dans cette même case. 
+4. Sauvegardez le tout
+
+En réservant le forfait pour le type de participant sélectionné, Réservotron ajoutera automatiquement les droits d'accès et autres items respectifs avec les tarifs appropriés (si vous en avez demandé).
+
+![](Screen Shot 2016-04-26 at 9.46.02 AM.png)
+![](Screen Shot 2016-04-26 at 9.55.57 AM.png)
+![](Screen Shot 2016-04-26 at 10.09.05 AM.png)
 
