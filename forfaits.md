@@ -40,6 +40,8 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ?t=184
 
 **[Pour apprendre à créer des forfaits cadeaux, cliquez ici.](forfaits_cadeaux.md)**
 
+####Appliquer des droits d'accès par type de participant à un forfait
+
 Vous pouvez également inclure des droits d'accès directement dans votre forfait, même si les tarifs sont différents par type de participants. Ainsi, en réservant un forfait, le client achètera automatiquement les droits d'accès nécessaires.
 
 **Exemple de configuration de forfait pour inclure des droits d'accès:**
