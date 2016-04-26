@@ -21,7 +21,7 @@
    * [Formulaires personnalisés](formulaires_personnalises.md)
    * [Documents](documents.md)
    * [Ajouter Réservotron sur votre site](ajoutez_reservotron_sur_votre_site.md)
-       * Intégration du widget de réservation
+       * [Intégration du widget de réservation](integration_du_widget_de_reservation.md)
 * [INVENTAIRE](inventaire.md)
    * [Créer une activité](creer_une_activite.md)
    * [Créer un hébergement](creer_un_hebergement.md)
