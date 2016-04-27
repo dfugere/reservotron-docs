@@ -42,7 +42,7 @@ Tutoriel vidéo : https://youtu.be/T-GksZre1TQ?t=184
 
 ####Appliquer des droits d'accès par type de participant à un forfait
 
-Vous pouvez également inclure des droits d'accès directement dans votre forfait, même si les tarifs sont différents par type de participants. Ainsi, en réservant un forfait, le client achètera automatiquement les droits d'accès nécessaires.
+Vous pouvez également inclure d'autres items (par exemple: des droits d'accès) directement dans votre forfait, même si les tarifs sont différents par type de participants. Ainsi, en réservant un forfait, Réservotron appliquera automatiquement les tarifs s'appliquant aux types de participants sélectionnés au départ.
 
 **Exemple de configuration de forfait pour inclure des droits d'accès:**
 
