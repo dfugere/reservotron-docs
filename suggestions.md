@@ -51,6 +51,16 @@ Si une **DURÉE SUPPLÉMENTAIRE** est spécifiée, alors la réservation sera cr
 Vous pouvez laissez ces cases vides pour appliquer la durée de la réservation parente par défaut. 
 
 
+####APPLIQUER UN RABAIS SUR LA SUGGESTION
+
+Vous pouvez également ajouter un rabais sur votre item suggéré lors de son ajout à une réservation pour faciliter vos promotions. 
+
+**Pour appliquer le rabais à la suggestion : **
+1. indiquez le montant que vous voulez réduire dans la case **RABAIS**
+2. indiquez le type de rabais à appliquer à la suggestion: **MONTANT** (Amount) ou **POURCENTAGE** (Percentage)
+
+*ex: pour appliquer un rabais de 50% sur la suggestion, indiquez 50 dans la case "Rabais" et "Pourcentage" dans la case "Type de Rabais"*.
+
 # **Suggestion Obligatoire**
 
 
