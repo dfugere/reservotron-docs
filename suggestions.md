@@ -40,6 +40,17 @@ Si vous créez une activité, vous pouvez suggérer la location de l’équipeme
 ![](https://monosnap.com/file/bvxjapP3xHJWmWkpt0RETgu4ILMInT.png)
 
 
+####DURÉE SUPPLÉMENTAIRE ET DURÉE FIXE
+
+La suggestion permet de créer automatiquement une réservation en fonction de la réservation pour laquelle elle est suggérée. Pour permettre plus de flexibilité, vous avez l'option d'ajouter une durée supplémentaire ou spécifier une durée fixe à votre suggestion.
+
+Si la suggestion a une **DURÉE FIXE**, alors la réservation créée ne prendra pas en compte la durée de la réservation "parente".
+
+Si une **DURÉE SUPPLÉMENTAIRE** est spécifiée, alors la réservation sera créée avec cette durée en plus de la durée de la réservation parente (*ex: 3 jours (réservation parente) + 1 jour*).
+
+Vous pouvez laissez ces cases vides pour appliquer la durée de la réservation parente par défaut. 
+
+
 # **Suggestion Obligatoire**
 
 
