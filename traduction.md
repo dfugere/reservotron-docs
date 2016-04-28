@@ -16,7 +16,7 @@ Réservotron vous permet d'ajouter des traductions en français, anglais et alle
 
 
 
-5. Sauvegardez votre article.
+5. Lorsque vous aurez entré toute les informations dans la langue voulue, sauvegardez votre article pour appliquer les changements.
 
 Répetez ces étapes pour la totalité de votre inventaire afin de le rendre entièrement bilingue.
 
