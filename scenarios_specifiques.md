@@ -10,7 +10,7 @@ Pour configurer la promotion :
 2. Modifier votre saison générale de sorte à ce qu'elle exclut les dates qui auront un tarif spécial. (Si vous avez besoin d'aide pour la création d'un groupe de saison, [cliquez ici](saisons.md) pour consulter la documentation détaillée à ce sujet)
 3. Retournez dans votre hébergement. Créez un second tarif en cliquant sur **AJOUTER UN TARIF** 
 4. Ajoutez la configuration suivante au tarif:
-    1. Ajoutez une position au tarif (1, 2, 3 etc.)
+    a. Ajoutez une position au tarif (1, 2, 3 etc.)
     2. Spécifiez le montant désiré pour la promotion 
     3. Cochez la case **"MONTANT FIXE"**
     4. Dans la case **DURÉE**, spécifiez la durée de la promotion. S'il s'agit d'un weekend, indiquez "2" par exemple.
