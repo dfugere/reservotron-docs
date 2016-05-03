@@ -62,6 +62,8 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 
 **[TRADUCTION](traduction.md)**
 
+**[SCÉNARIOS SPÉCIFIQUES](scenarios_specifiques.md)**
+
 [**AIDE**](aide.md)
 
 [**DERNIÈRES FONCTIONNALITÉS**](dernieres_fonctionnalites.md)
