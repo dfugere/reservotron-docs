@@ -55,7 +55,7 @@
    * [Rapport comptable](rapport_comptable.md)
 * [DERNIÈRES FONCTIONNALITÉS](dernieres_fonctionnalites.md)
 * [TRADUCTION](traduction.md)
+* [SCÉNARIOS SPÉCIFIQUES](scenarios_specifiques.md)
 * [AIDE](aide.md)
 * [logs](logs.md)
-* [SCÉNARIOS SPÉCIFIQUES](scenarios_specifiques.md)
 
