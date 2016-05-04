@@ -47,8 +47,8 @@ La réservation d'un hébergement, requiert une heure d'arrivée et de départ a
 2. **ENCAISSE (ACOMPTE)**
 3. **ENCAISSE RECEVABLE**
 4. **ACOMPTE**
-5. **FRAIS DE TRANSACTION EN LIGNE**
-6. **TAXE SUR L'HÉBERGEMENT**
+5. **FRAIS DE TRANSACTION EN LIGNE** : Permet de charger des frais de transaction (ou réservation) en ligne à vos clients. 
+6. **TAXE SUR L'HÉBERGEMENT** : Permet de demander une taxe supplémentaire sur les hébergements. Cette option vous sera utile si vous êtes tenu de demander une taxe additionnelle sur la réservation de vos hébergements (ex: taxe de l'Outaouais : 3$ / nuit)
 7. **TPS**
 8. **TVQ**
 
@@ -58,6 +58,6 @@ Les liens seront affichés dans le pied de page de votre compte.
 
 
 **Conversion**
-1. **GOOGLE CONVERSION**
+1. **GOOGLE CONVERSION** : Vous permet d'ajouter les codes de conversion vers votre compte Google Analytics. 
 2. **GOOGLE CONVERSION LABEL**
 
