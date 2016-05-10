@@ -25,9 +25,26 @@ Cette option est idéale pour l’ajout de participants spéciaux, tel que des a
 
 ## Prix par type de participant
 
-Il vous est à présent possible de spécifier un prix par type de participant. 
+Il vous est possible de spécifier un prix par type de participant. 
 
-Pour ajouter des tarifs:
+Pour ajouter des tarifs par type de participant dans les **ACTIVITÉS**:
+1. Créez l'activité
+2. Cliquez sur le bouton **AJOUTER UN TYPE DE PARTICIPANT**
+3. Remplissez les informations suivantes :
+  4. **TYPE DE PARTICIPANT** : Sélectionnez le type de participant désiré à l'aide de la liste déroulante. Si vous ne trouvez pas le participant désiré, sélectionnez le choix *Créer un nouveau type de participant* et entrez le nom désiré.
+  5. **POSITION** : Ajoutez la position de votre tarification. Cette option permettra de donner un ordre spécifique à votre tarification au niveau de l'interface cliente.
+  6. **LIBÉLÉ** : Ajoutez un libélé si désiré. Si vous n'en n'avez pas besoin, laissez cette case vide.
+  7. **NOMBRE DE PARTICIPANT INCLUS** : Indiquez le nombre de participants inclus dans la tarification. Si le tarif s'applique pour une seule personne par exemple, indiquez "1".
+  8. **MONTANT** : Ajoutez le tarif demandé
+  9. **RABAIS RÉSERVÉ X JOURS D'AVANCE** : Si vous voulez appliquer un rabais pour les réservations faites d'avance, indiquez le nombre de jours d'avance désiré dans cette case. Laissez la vide si cette option ne s'applique pas à votre cas.
+  10. **POURCENTAGE DU RABAIS** : indiquez le pourcentage de rabais à appliquer pour les réservations faites à l'avance (ex: 10%). Laissez la case vide si cette option ne s'applique pas à votre cas.
+  11. **OPTION DE PAIEMENT** : Si désiré, vous pouvez spécifiez des options de paiement différent. Si cette option s'applique à vous, sélectionnez les options de paiement dans la liste déroulante. Sinon, gardez la vide.
+  12. **MONTANT PAR PARTICIPANT SUPPLÉMENTAIRE** : Montant désiré pour des participant supplémentaire. Laissez la case vide si cette option ne s'applique pas à votre cas.
+1. Validez le tout en cliquant sur le bouton **SAUVEGARDER** au bas de la page.
+
+-
+
+Pour ajouter des tarifs par type de participant dans les **DIVERS**:
 1. Créez le divers
 2. Retournez dans l'inventaire de vos divers
 3. Cliquez sur **"CHANGER LES PRIX"**
