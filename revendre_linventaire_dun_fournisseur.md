@@ -3,12 +3,12 @@
 ##Création d'un catalogue et sélection du partenaire
 Pour créer un catalogue, suivez les étapes suivantes:
 1. Allez dans Menu → Inventaire → Catalogues
-2. Cliquez sur **Ajouter Catalogue**
+2. Cliquez sur **AJOUTER CATALOGUE**
 3. Ajoutez un nom pour votre catalogue
 4. Saisissez le pourcentage de la commission du revendeur. *Si vous désirez spécifier une commission différente par item, laissez cette case vide.*
 5. Cochez dans les listes les items que vous désirez partager avec le revendeur. Si vous voulez spécifier une commission par item, ajoutez le pourcentage à côté du nom de l'item en question. 
 6. Sélectionnez un **PARTENAIRE** dans la liste déroulante. - *Vous pouvez rajouter autant de partenaires que désiré*. Cette option permettra au revendeur d'avoir accès à l'inventaire que vous désirez partager avec lui.
-7. Validez le tout en cliquant sur **Créer Catalogue**.
+7. Validez le tout en cliquant sur **CREÉR CATALOGUE**.
 
 
 ![](Screen Shot 2015-11-04 at 11.27.10 AM.png)
