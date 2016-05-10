@@ -43,6 +43,7 @@ De la configuration de votre compte à la gestion des réservations, vous trouve
 * [GRILLE TARIFAIRE](grille_tarifaire1.md)
 * [TAXE TOURISTIQUE](taxe-touristique.md)
 * [GESTION DE SORTIES OU DE JOURNÉES](publier_des_sorties_ou_des_journees_specifiques.md)
+* [CALENDRIER](calendrier.md)
 
 **RÉSERVATIONS**
 * [TABLEAU DE BORD](tableau_de_bord.md)
