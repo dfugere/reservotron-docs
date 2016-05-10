@@ -1,4 +1,12 @@
 # Dernières fonctionnalités 
+
+#####10 mai 2016
+
+###[Navigation du calendrier](calendrier.md)
+Naviguer facilement entre les différents calendriers de tous les items dans votre inventaire en utilisant le menu **INVENTAIRE** de l'entête de votre calendrier.
+
+
+--
 #####1er mars 2016
 
 ###[Créez vos scénarios de courriels automatisés](courriels_automatises.md)
