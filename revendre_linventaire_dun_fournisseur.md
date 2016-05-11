@@ -36,43 +36,26 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
 ##Intégration avec le système de votre revendeur
 
-Pour in
 
 1. Créez compte pour le revendeur
 2. Partagez l'inventaire désiré avec le compte du revendeur
 
 
-Le revendeur aura la possibilité de: 
+####Le revendeur aura la possibilité de: 
 1. Publier votre inventaire et prendre des réservations de ses clients sur son compte Réservotron
-2. Publier votre inventaire et prendre des réservations de ses clients sur son site web ([via le widget](ajouter_reservotron_sur_votre_site))
-  c. réserver lui même sur son compte réservotron
-  d. automatiser l'intégration avec l'API via son compte Reservotron.
+2. Publier votre inventaire et prendre des réservations de ses clients sur son site web ([via le widget](ajouter_reservotron_sur_votre_site.md))
+3. Réserver lui même sur son compte Réservotron
+4. Automatiser l'intégration avec l'API via son compte Reservotron.
 
-l'API permet au revendeur de
-1. faire des requêtes automatisée pour connaître vos disponibilités en temps réel
-2. créer automatiquement des réservation pour les activités disponibles
+####L'API permet au revendeur de :
+1. Faire des requêtes automatisée pour connaître vos disponibilités en temps réel
+2. Créer automatiquement des réservations pour les activités disponibles
 
-https://reservotron.com/swagger-ui/#/default
-Sarah Faour·5:12 PM
 
-la démarche pour intégrer l'API ?
-David Fugere·5:17 PM
+####Pour intégrer l'API :
 
-1. télécharger la liste de produits via GET /products
-
-la réponse inclus des attributs de "participant_types" qui sont importants pour le booking
-Nicolas Buduroi left the room
-David Fugere·5:19 PM
-
-2. obtenir les disponibilités d'un produits via GET /occurrences/{productId}
-
-L'information importante de cette requête est    "openings",  "start_at", "end_at"
-
-3. créer une réservation via POST /bookings
-
-https://reservotron.com/swagger-ui/#!/default/post_bookings
-
-Tu peux réutiliser le texte que je viens d'écrire
-
-cette doc est quand-même simple pour un codeur : https://reservotron.com/swagger-ui
+1. Rendez vous au lien suivant https://reservotron.com/swagger-ui/#/default
+2. Téléchargez la liste de produits via GET /products. La réponse inclus des attributs de "participant_types" qui sont importants pour la réservation.
+2. Obtenez les disponibilités d'un produit via GET /occurrences/{productId}.  L'information importante de cette requête est "openings", "start_at", "end_at"
+3. Créer une réservation via POST /bookings (https://reservotron.com/swagger-ui/#!/default/post_bookings)
 
