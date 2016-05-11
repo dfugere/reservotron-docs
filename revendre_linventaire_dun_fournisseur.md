@@ -57,5 +57,5 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 1. Rendez vous au lien suivant https://reservotron.com/swagger-ui/#/default
 2. Téléchargez la liste de produits via GET /products. La réponse inclus des attributs de "participant_types" qui sont importants pour la réservation.
 2. Obtenez les disponibilités d'un produit via GET /occurrences/{productId}.  L'information importante de cette requête est "openings", "start_at", "end_at"
-3. Créer une réservation via POST /bookings (https://reservotron.com/swagger-ui/#!/default/post_bookings)
+3. Créez une réservation via POST /bookings (https://reservotron.com/swagger-ui/#!/default/post_bookings)
 
