@@ -14,6 +14,7 @@ Pour créer un catalogue, suivez les étapes suivantes:
 ![](Screen Shot 2015-11-04 at 11.27.10 AM.png)
 
 
+****
 
 ##Ajouter l'inventaire partagé du fournisseur
 
@@ -29,4 +30,49 @@ Pour ajouter l'inventaire partagé, suivez les étapes suviantes:
 
 
 ![](Screen Shot 2015-11-04 at 2.04.39 PM.png)
+
+
+****
+
+##Intégration avec le système de votre revendeur
+
+Pour in
+
+1. Créez compte pour le revendeur
+2. Partagez l'inventaire désiré avec le compte du revendeur
+
+
+Le revendeur aura la possibilité de: 
+1. Publier votre inventaire et prendre des réservations de ses clients sur son compte Réservotron
+2. Publier votre inventaire et prendre des réservations de ses clients sur son site web ([via le widget](ajouter_reservotron_sur_votre_site))
+  c. réserver lui même sur son compte réservotron
+  d. automatiser l'intégration avec l'API via son compte Reservotron.
+
+l'API permet au revendeur de
+1. faire des requêtes automatisée pour connaître vos disponibilités en temps réel
+2. créer automatiquement des réservation pour les activités disponibles
+
+https://reservotron.com/swagger-ui/#/default
+Sarah Faour·5:12 PM
+
+la démarche pour intégrer l'API ?
+David Fugere·5:17 PM
+
+1. télécharger la liste de produits via GET /products
+
+la réponse inclus des attributs de "participant_types" qui sont importants pour le booking
+Nicolas Buduroi left the room
+David Fugere·5:19 PM
+
+2. obtenir les disponibilités d'un produits via GET /occurrences/{productId}
+
+L'information importante de cette requête est    "openings",  "start_at", "end_at"
+
+3. créer une réservation via POST /bookings
+
+https://reservotron.com/swagger-ui/#!/default/post_bookings
+
+Tu peux réutiliser le texte que je viens d'écrire
+
+cette doc est quand-même simple pour un codeur : https://reservotron.com/swagger-ui
 
