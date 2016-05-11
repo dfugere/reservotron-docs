@@ -9,7 +9,20 @@ Ceci dit, vous pouvez également configurer des hébergements réservables par u
 1. Allez dans **“INVENTAIRE”**
 2. Sélectionnez **“HÉBERGEMENT”**
 3. Cliquez sur **“AJOUTER HÉBERGEMENT”**
-4. Ajoutez les informations désirées
+4. Ajoutez les informations suivantes:
+  5. **NOM** : Ajoutez le nom de votre hébergement (exemple : Camping 1)
+  6. **LOCATION** : (Si désiré) sélectionnez l'emplacement de votre hébergement 
+  7. **CATÉGORIE** : Cliquez dans la case pour sélectionner la catégorie dans laquelle vous désirez afficher cet hébergement (par exemple : Hébergement > Camping)
+  7. **DESCRIPTION** : Ajoutez la description de votre hébergement
+  8. **INSTRUCTION** : Ajoutez les instructions (si applicable)
+  9. **TERMS** : Si vous désirez spécifiez des termes spécifiques à la réservation de cet hébergement, sélectionnez les termes en questions dans la liste
+  10. **CAPACITÉ** : indiquez la capacité maximale de votre hébergement (exemple : 4 personnes)
+  11. **HEURE D'ARRIVÉE** : spécifiez l'heure d'arrivée (exemple : 12h)
+  12. **HEURE DE DÉPART** : spécifiez l'heure de départ (exemple : 11h)
+1. Cliquez sur le bouton **AJOUTER UN TARIF**
+2. Dans la case **MONTANT**, indiquez le tarif que vous désirez demander puis cochez la case appropriée parmi les choix suivants (Montant fixe, Montant par jour)
+3. Indiquez la durée du tarif dans la case **DURÉE** (exemple : 2 jours)
+4. Sélectionnez la saison correspondant au tarif dans la liste déroulante **SAISON**
 5. Cochez la case **"PUBLIÉE"**
 6. Sauvegardez en cliquant sur **“CRÉER HÉBERGEMENT”**
 
@@ -26,7 +39,7 @@ Ceci dit, vous pouvez également configurer des hébergements réservables par u
   8. **INSTRUCTION** : Ajoutez les instructions (si applicable)
   9. **TERMS** : Si vous désirez spécifiez des termes spécifiques à la réservation de cet hébergement, sélectionnez les termes en questions dans la liste
   10. **LOCATION** : (Si désiré) sélectionnez l'emplacement de votre hébergement 
-  11. **CATÉGORIE** : Cliquez dans la case pour sélectionner la catégorie dans laquelle vous désirez afficher cet hébergement (par exemple : Hébergement > Camping)
+  11. **CATÉGORIE** : Cliquez dans la case pour sélectionner la catégorie dans laquelle vous désirez afficher cet hébergement (par exemple : Hébergement > Gîtes)
   12. **LIMITE** : indiquez la limite (capacité) maximale de votre hébergement (exemple : 9 personnes)
   13. Cochez la case **DÉTAILLER LA LISTE DES PARTICIPANTS**
   13. **HEURE D'ARRIVÉE** : spécifiez l'heure d'arrivée (exemple : 12h)
