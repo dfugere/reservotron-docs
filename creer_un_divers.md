@@ -13,6 +13,7 @@ Ajoutez les informations désirées
 1. 
 Sauvegardez en cliquant sur “ **CRÉER DIVERS**”
 
+********
 Les divers peuvent également être utilisés pour la création de droit d'accès avec des tarifs différents selon les types de participants. 
 
 ####Pour créer un droit d'accès
