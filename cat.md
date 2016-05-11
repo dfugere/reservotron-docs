@@ -5,15 +5,15 @@ Les catégories vous permettent d'organiser votre inventaire. Il vous sera ainsi
 Vos clients pourront facilement trouver l'information dont ils ont besoin en se reférrant à la catégorie désirée. 
 
 Pour créer des catégories, suivez les étapes suivantes:
-1. Allez dans le menu ***Autres*** et sélectionnez ***Catégories***
-2. Cliquez sur ***Ajouter une catégorie***
+1. Allez dans le menu **AUTRES** et sélectionnez **CATÉGORIES**
+2. Cliquez sur **AJOUTER UNE CATÉGORIE**
 3. Entrez les informations désirées telles que le nom de la catégorie
 4. Sélectionnez le type de la catégorie
 5. Si vous voulez assigner une catégorie "parent" à votre catégorie, sélectionnez la dans la liste déroulante.
-4. Choisissez une ***couleur*** de votre choix pour représenter la catégorie. Cette dernière sera utilisée pour annoter la carte de votre site. 
-4. Sélectionnez une image illustrant votre catégorie
-5. Si désiré, sélectionnez une carte en cliquant sur **Choose File**. Afin de la voir, la case ***publiée*** doit être cochée.
-5. Validez votre catégorie en cliquant sur ***"Créer Catégorie"***
+4. Choisissez une **COULEUR** de votre choix pour représenter la catégorie. Cette dernière sera utilisée pour annoter la carte de votre site. 
+4. Cliquez sur **PICTURE** et sélectionnez une image illustrant votre catégorie. Si vous ne choisissez aucune image, Reservotron utilisera une image aléatoire de votre inventaire inscrit sous cette catégorie.
+5. Si désiré, sélectionnez une carte en cliquant sur **CHOOSE FILE**. Afin de la voir, la case **PUBLIÉE** doit être cochée.
+5. Validez votre catégorie en cliquant sur **"CRÉER CATÉGORIE"**
 
 En attribuant une image à votre catégorie, vous déterminez ce que vos clients verront lorsqu'ils voudront la sélectionner. Dans l'éventualité où vous ne mettez pas d'image, le logiciel prendra en compte la première image ajouté à un produit de la catégorie en question. 
 
